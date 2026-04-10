@@ -1,5 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+// We need to define city for the source page tracker to avoid undefined errors during build
+// If this is the main quote page, it won't have a city prop, so we default it.
+const { city } = Astro.props;
+const sourcePageName = city?.display || 'Main Quote Page';
 ---
 
 <Layout title="Request a Dumpster | Dumpster Machine">
@@ -32,7 +37,7 @@ import Layout from '../layouts/Layout.astro';
 					<h2 class="text-3xl font-black uppercase tracking-tight mb-6 text-slate-900">Get Your Price</h2>
 					<form action="https://formspree.io/f/xaqlrynv" method="POST" class="space-y-6">
 						<!-- Hidden field to track which city page they came from -->
-						<input type="hidden" name="source_page" value="Main Quote Page" />
+						<input type="hidden" name="source_page" value={sourcePageName} />
 						
 						<!-- Redirect to custom thank you page -->
 						<input type="hidden" name="_next" value="https://dumpstermachine.vercel.app/thanks" />
