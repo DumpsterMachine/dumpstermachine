@@ -1,0 +1,135 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Request a Dumpster | Dumpster Machine">
+	<main class="bg-slate-50 py-16">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			
+			<div class="text-center mb-16">
+				<h1 class="text-5xl font-black uppercase text-slate-900 tracking-tight mb-4">Request a Dumpster</h1>
+				<p class="text-xl text-slate-600 font-medium max-w-3xl mx-auto">
+					No hidden fees, no credit card required today. Fill out the form below to get a flat-rate price for your city.
+				</p>
+			</div>
+
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+				
+				<!-- Sizing Guide -->
+				<div class="bg-white p-8 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
+					<h2 class="text-3xl font-black uppercase tracking-tight mb-6 text-slate-900">Dumpster Sizing Guide</h2>
+					<p class="text-slate-600 font-medium mb-8 leading-relaxed">
+						<strong>Important:</strong> Exact dimensions can vary depending on the local crew, but the volume never changes. A 10-yard dumpster holds exactly 10 cubic yards of debris, whether it's shorter and taller, or longer and lower.
+					</p>
+
+					<div class="space-y-8">
+						<!-- 10 Yard -->
+						<div class="flex items-end gap-4 border-b-2 border-slate-100 pb-8">
+							<div class="w-8 shrink-0 flex flex-col items-center">
+								<!-- SVG Person (approx 6ft) -->
+								<svg class="h-16 text-slate-400" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C10.9 2 10 2.9 10 4C10 5.1 10.9 6 12 6C13.1 6 14 5.1 14 4C14 2.9 13.1 2 12 2ZM11 19.5V13H6V11C6 9.9 6.9 9 8 9H16C17.1 9 18 9.9 18 11V13H13V19.5C13 20.3 12.1 21 11 20.5C9.9 20 11 19.5 11 19.5Z"/></svg>
+								<span class="text-xs font-bold text-slate-400 mt-1">6'</span>
+							</div>
+							<div class="flex-1">
+								<div class="bg-green-600 h-10 w-full rounded-sm border-2 border-slate-900 flex items-center justify-center text-white font-black shadow-[2px_2px_0px_rgba(0,0,0,1)]">
+									10 YARD
+								</div>
+								<p class="text-sm font-bold text-slate-500 mt-2">Holds ~50 contractor bags. Great for small cleanouts.</p>
+							</div>
+						</div>
+                        
+                        <!-- 15 Yard -->
+						<div class="flex items-end gap-4 border-b-2 border-slate-100 pb-8">
+							<div class="w-8 shrink-0 flex flex-col items-center">
+								<svg class="h-16 text-slate-400" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C10.9 2 10 2.9 10 4C10 5.1 10.9 6 12 6C13.1 6 14 5.1 14 4C14 2.9 13.1 2 12 2ZM11 19.5V13H6V11C6 9.9 6.9 9 8 9H16C17.1 9 18 9.9 18 11V13H13V19.5C13 20.3 12.1 21 11 20.5C9.9 20 11 19.5 11 19.5Z"/></svg>
+							</div>
+							<div class="flex-1">
+								<div class="bg-green-600 h-12 w-full rounded-sm border-2 border-slate-900 flex items-center justify-center text-white font-black shadow-[2px_2px_0px_rgba(0,0,0,1)]">
+									15 YARD
+								</div>
+								<p class="text-sm font-bold text-slate-500 mt-2">Holds ~75 bags. Good for room remodels or roof tear-offs.</p>
+							</div>
+						</div>
+
+						<!-- 20 Yard -->
+						<div class="flex items-end gap-4 border-b-2 border-slate-100 pb-8">
+							<div class="w-8 shrink-0 flex flex-col items-center">
+								<svg class="h-16 text-slate-400" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C10.9 2 10 2.9 10 4C10 5.1 10.9 6 12 6C13.1 6 14 5.1 14 4C14 2.9 13.1 2 12 2ZM11 19.5V13H6V11C6 9.9 6.9 9 8 9H16C17.1 9 18 9.9 18 11V13H13V19.5C13 20.3 12.1 21 11 20.5C9.9 20 11 19.5 11 19.5Z"/></svg>
+							</div>
+							<div class="flex-1">
+								<div class="bg-green-600 h-14 w-full rounded-sm border-2 border-slate-900 flex items-center justify-center text-white font-black shadow-[2px_2px_0px_rgba(0,0,0,1)]">
+									20 YARD
+								</div>
+								<p class="text-sm font-bold text-slate-500 mt-2">Holds ~100 bags. The most popular size for home renovations.</p>
+							</div>
+						</div>
+
+						<!-- 30 Yard -->
+						<div class="flex items-end gap-4">
+							<div class="w-8 shrink-0 flex flex-col items-center">
+								<svg class="h-16 text-slate-400" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C10.9 2 10 2.9 10 4C10 5.1 10.9 6 12 6C13.1 6 14 5.1 14 4C14 2.9 13.1 2 12 2ZM11 19.5V13H6V11C6 9.9 6.9 9 8 9H16C17.1 9 18 9.9 18 11V13H13V19.5C13 20.3 12.1 21 11 20.5C9.9 20 11 19.5 11 19.5Z"/></svg>
+							</div>
+							<div class="flex-1">
+								<div class="bg-green-600 h-20 w-full rounded-sm border-2 border-slate-900 flex items-center justify-center text-white font-black shadow-[2px_2px_0px_rgba(0,0,0,1)]">
+									30 YARD
+								</div>
+								<p class="text-sm font-bold text-slate-500 mt-2">Holds ~150 bags. Built for major construction or whole-home cleanouts.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Lead Form -->
+				<div class="bg-white p-8 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
+					<h2 class="text-3xl font-black uppercase tracking-tight mb-6 text-slate-900">Get Your Price</h2>
+					<form class="space-y-6" onsubmit="event.preventDefault(); alert('Lead form submitted! We will route this to ADR or Dumpster Machine later.');">
+						<div>
+							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Delivery City & Zip Code *</label>
+							<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="e.g. Austin, TX 78701" />
+						</div>
+						
+						<div class="grid grid-cols-2 gap-4">
+							<div>
+								<label class="block text-sm font-bold text-slate-700 uppercase mb-2">First Name *</label>
+								<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="John" />
+							</div>
+							<div>
+								<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Last Name *</label>
+								<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="Doe" />
+							</div>
+						</div>
+
+						<div>
+							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Phone Number *</label>
+							<input type="tel" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="(555) 555-5555" />
+						</div>
+
+						<div>
+							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Email Address *</label>
+							<input type="email" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="john@example.com" />
+						</div>
+
+						<div>
+							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">What size do you need?</label>
+							<select class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900 bg-white">
+								<option>Not sure / Help me choose</option>
+								<option>10 Yard</option>
+								<option>15 Yard</option>
+								<option>20 Yard</option>
+								<option>30 Yard</option>
+							</select>
+						</div>
+
+						<button type="submit" class="w-full bg-slate-900 text-white font-black text-xl px-8 py-4 rounded-sm shadow-[4px_4px_0px_rgba(22,163,74,1)] hover:shadow-[2px_2px_0px_rgba(22,163,74,1)] hover:translate-y-[2px] hover:translate-x-[2px] transition-all uppercase tracking-wider mt-4">
+							Get Flat-Rate Price
+						</button>
+						<p class="text-xs text-center text-slate-500 font-medium mt-4">
+							We won't spam you. We'll just text or email you a transparent quote.
+						</p>
+					</form>
+				</div>
+
+			</div>
+		</div>
+	</main>
+</Layout>
