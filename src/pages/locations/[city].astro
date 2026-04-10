@@ -1,0 +1,63 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+export function getStaticPaths() {
+  // In a real production build, this would fetch from a database or a large JSON file.
+  // For now, we are scaffolding the architecture with a few major cities.
+  const cities = [
+    { name: 'austin', display: 'Austin, TX', phone: '888-555-0100' },
+    { name: 'atlanta', display: 'Atlanta, GA', phone: '888-555-0101' },
+    { name: 'chicago', display: 'Chicago, IL', phone: '888-555-0102' },
+    { name: 'dallas', display: 'Dallas, TX', phone: '888-555-0103' },
+    { name: 'miami', display: 'Miami, FL', phone: '888-555-0104' },
+  ];
+
+  return cities.map(city => ({
+    params: { city: city.name },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+---
+
+<Layout title={`Dumpster Rental in ${city.display} | Dumpster Machine`}>
+	<main>
+		<!-- City Hero Section -->
+		<section class="bg-slate-900 text-white relative overflow-hidden py-24 md:py-36">
+			<div class="absolute inset-0 opacity-30 flex">
+				<div class="w-full h-full bg-[url('https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center"></div>
+			</div>
+			<div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/60 to-transparent"></div>
+			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
+				<h1 class="text-5xl md:text-7xl font-black mb-6 leading-tight tracking-tighter uppercase text-white">
+					Dumpster Rental in <br class="hidden md:block"/>
+					<span class="text-green-600">{city.display}</span>
+				</h1>
+				<p class="text-xl md:text-2xl mb-12 max-w-3xl mx-auto text-slate-300 font-medium">
+					Tackling a big project in {city.display}? Let us handle the waste. Kick back and relax—you don't even need to be home for delivery!
+				</p>
+				<div class="flex flex-col sm:flex-row justify-center gap-4">
+					<a href="#book" class="bg-green-600 text-slate-900 font-black text-xl px-10 py-5 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.5)] hover:shadow-[2px_2px_0px_rgba(0,0,0,0.5)] hover:translate-y-[4px] hover:translate-x-[4px] transition-all uppercase tracking-wider block sm:inline-block">
+						See Flat-Rate Pricing
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Trust Section specific to city -->
+		<section class="py-20 bg-slate-50">
+			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+				<h2 class="text-4xl font-black uppercase text-slate-900 tracking-tight mb-6">The Best Independent Haulers in {city.display}</h2>
+				<p class="text-xl text-slate-600 font-medium max-w-3xl mx-auto mb-12">
+					We partner exclusively with top-tier, fully-insured local crews in {city.display}. We do things by the book to ensure your property stays protected, and we handle all the logistics so your dumpster arrives exactly when you need it.
+				</p>
+                <div class="inline-block bg-white p-8 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
+                    <p class="text-2xl font-black uppercase text-slate-900 mb-2">Ready to book?</p>
+                    <p class="text-3xl text-green-600 font-black">{city.phone}</p>
+                </div>
+			</div>
+		</section>
+
+	</main>
+</Layout>
