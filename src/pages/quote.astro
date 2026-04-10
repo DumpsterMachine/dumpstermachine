@@ -34,6 +34,9 @@ import Layout from '../layouts/Layout.astro';
 						<!-- Hidden field to track which city page they came from -->
 						<input type="hidden" name="source_page" value="Main Quote Page" />
 						
+						<!-- Redirect to custom thank you page -->
+						<input type="hidden" name="_next" value="https://dumpstermachine.vercel.app/thanks" />
+						
 						<div>
 							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Delivery City & Zip Code *</label>
 							<input type="text" name="location" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="e.g. Austin, TX 78701" />
