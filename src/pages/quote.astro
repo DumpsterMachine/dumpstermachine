@@ -30,36 +30,36 @@ import Layout from '../layouts/Layout.astro';
 				<!-- Lead Form -->
 				<div class="bg-white p-8 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
 					<h2 class="text-3xl font-black uppercase tracking-tight mb-6 text-slate-900">Get Your Price</h2>
-					<form class="space-y-6" onsubmit="event.preventDefault(); alert('Lead form submitted! We will route this to ADR or Dumpster Machine later.');">
+					<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="space-y-6">
 						<div>
 							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Delivery City & Zip Code *</label>
-							<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="e.g. Austin, TX 78701" />
+							<input type="text" name="location" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="e.g. Austin, TX 78701" />
 						</div>
 						
 						<div class="grid grid-cols-2 gap-4">
 							<div>
 								<label class="block text-sm font-bold text-slate-700 uppercase mb-2">First Name *</label>
-								<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="John" />
+								<input type="text" name="first_name" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="John" />
 							</div>
 							<div>
 								<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Last Name *</label>
-								<input type="text" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="Doe" />
+								<input type="text" name="last_name" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="Doe" />
 							</div>
 						</div>
 
 						<div>
 							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Phone Number *</label>
-							<input type="tel" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="(555) 555-5555" />
+							<input type="tel" name="phone" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="(555) 555-5555" />
 						</div>
 
 						<div>
 							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">Email Address *</label>
-							<input type="email" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="john@example.com" />
+							<input type="email" name="email" required class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900" placeholder="john@example.com" />
 						</div>
 
 						<div>
 							<label class="block text-sm font-bold text-slate-700 uppercase mb-2">What size do you need?</label>
-							<select class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900 bg-white">
+							<select name="size" class="w-full border-2 border-slate-300 p-3 rounded-sm focus:border-green-600 focus:ring-0 transition-colors font-medium text-slate-900 bg-white">
 								<option>Not sure / Help me choose</option>
 								<option>10 Yard</option>
 								<option>15 Yard</option>
