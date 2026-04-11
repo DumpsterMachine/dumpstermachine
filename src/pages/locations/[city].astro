@@ -2,15 +2,523 @@
 import Layout from '../../layouts/Layout.astro';
 
 export function getStaticPaths() {
-  // In a real production build, this would fetch from a database or a large JSON file.
-  // For now, we are scaffolding the architecture with a few major cities.
   const cities = [
-    { name: 'austin', display: 'Austin, TX', phone: '888-555-0100' },
-    { name: 'atlanta', display: 'Atlanta, GA', phone: '888-555-0101' },
-    { name: 'chicago', display: 'Chicago, IL', phone: '888-555-0102' },
-    { name: 'dallas', display: 'Dallas, TX', phone: '888-555-0103' },
-    { name: 'miami', display: 'Miami, FL', phone: '888-555-0104' },
-  ];
+    {
+        "name": "albany-ny",
+        "display": "Albany, NY",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "albuquerque-nm",
+        "display": "Albuquerque, NM",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "atlanta",
+        "display": "Atlanta",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "augusta-ga",
+        "display": "Augusta, GA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "austin",
+        "display": "Austin",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "baltimore",
+        "display": "Baltimore",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "birmingham",
+        "display": "Birmingham",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "boston-n",
+        "display": "Boston N.",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "boston-s",
+        "display": "Boston S.",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "buffalo",
+        "display": "Buffalo",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "charleston",
+        "display": "Charleston",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "charlotte",
+        "display": "Charlotte",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "chattanooga-tn",
+        "display": "Chattanooga, TN",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "chicago",
+        "display": "Chicago",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "cincinnati",
+        "display": "Cincinnati",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "cleveland",
+        "display": "Cleveland",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "colorado-springs",
+        "display": "Colorado Springs",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "columbia-sc",
+        "display": "Columbia, SC",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "columbus",
+        "display": "Columbus",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "columbus-ga",
+        "display": "Columbus, GA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "corpus-christi-tx",
+        "display": "Corpus Christi, TX",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "dallas",
+        "display": "Dallas",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "daytona",
+        "display": "Daytona",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "dc",
+        "display": "D.C.",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "delmarva",
+        "display": "Delmarva",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "denver",
+        "display": "Denver",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "des-moines-ia",
+        "display": "Des Moines, IA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "detroit-mi",
+        "display": "Detroit, MI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "fayetteville-ar",
+        "display": "Fayetteville, AR",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "fort-wayne",
+        "display": "Fort Wayne",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "fort-worth",
+        "display": "Fort Worth",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "ft-lauderdale",
+        "display": "Ft. Lauderdale",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "ft-myers",
+        "display": "Ft. Myers",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "gainesville-fl",
+        "display": "Gainesville, FL",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "grand-rapids",
+        "display": "Grand Rapids",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "green-bay",
+        "display": "Green Bay",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "greensboro",
+        "display": "Greensboro",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "greenville-sc",
+        "display": "Greenville, SC",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "hartford",
+        "display": "Hartford",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "hernando-citrus-sumter-marion",
+        "display": "Hernando Citrus Sumter Marion",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "houston",
+        "display": "Houston",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "huntsville",
+        "display": "Huntsville",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "indianapolis",
+        "display": "Indianapolis",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "jacksonville",
+        "display": "Jacksonville",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "kansas-city",
+        "display": "Kansas City",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "knoxville",
+        "display": "Knoxville",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "lakeland-fl",
+        "display": "Lakeland, FL",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "las-vegas",
+        "display": "Las Vegas",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "lexington-mi",
+        "display": "Lexington, MI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "little-rock",
+        "display": "Little Rock",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "long-island",
+        "display": "Long Island",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "los-angeles",
+        "display": "Los Angeles",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "louisville-ky",
+        "display": "Louisville, KY",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "macon-ga",
+        "display": "Macon, GA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "madison-wi",
+        "display": "Madison, WI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "melbourne-fl",
+        "display": "Melbourne, FL",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "memphis",
+        "display": "Memphis",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "mid-michigan",
+        "display": "Mid Michigan",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "milwaukee-wi",
+        "display": "Milwaukee, WI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "nashville",
+        "display": "Nashville",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "new-orleans",
+        "display": "New Orleans",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "nj-east",
+        "display": "NJ East",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "nj-north",
+        "display": "NJ North",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "nj-south",
+        "display": "NJ South",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "nj-west",
+        "display": "NJ West",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "norfolk-va",
+        "display": "Norfolk, VA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "ocala",
+        "display": "Ocala",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "okc",
+        "display": "OKC",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "omaha-ne",
+        "display": "Omaha, NE",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "orlando",
+        "display": "Orlando",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "palm-beach",
+        "display": "Palm Beach",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "pasco-pinellas",
+        "display": "Pasco Pinellas",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "pensacola",
+        "display": "Pensacola",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "philadelphia",
+        "display": "Philadelphia",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "phoenix",
+        "display": "Phoenix",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "pittsburgh",
+        "display": "Pittsburgh",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "providence-ri",
+        "display": "Providence, RI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "raleigh",
+        "display": "Raleigh",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "richmond-va",
+        "display": "Richmond, VA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "rio-grande-valley",
+        "display": "Rio Grande Valley",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "rochester",
+        "display": "Rochester",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "sacramento",
+        "display": "Sacramento",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "salt-lake-city",
+        "display": "Salt Lake City",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "san-antonio",
+        "display": "San Antonio",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "san-bernardino",
+        "display": "San Bernardino",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "san-diego-ca",
+        "display": "San Diego, CA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "sarasota",
+        "display": "Sarasota",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "savannah",
+        "display": "Savannah",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "shreveport",
+        "display": "Shreveport",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "south-florida",
+        "display": "South Florida",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "springfield-ma",
+        "display": "Springfield, MA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "st-louis",
+        "display": "St. Louis",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "tallahassee",
+        "display": "Tallahassee",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "tampa",
+        "display": "Tampa",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "toledo",
+        "display": "Toledo",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "tucson-az",
+        "display": "Tucson, AZ",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "tulsa-ok",
+        "display": "Tulsa, OK",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "twin-cities-mn",
+        "display": "Twin Cities, MN",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "virginia",
+        "display": "Virginia",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "waco-tx",
+        "display": "Waco, TX",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "worcester-ma",
+        "display": "Worcester, MA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "youngstown",
+        "display": "Youngstown",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "yuma-az",
+        "display": "Yuma, AZ",
+        "phone": "888-555-0100"
+    }
+];
 
   return cities.map(city => ({
     params: { city: city.name },
