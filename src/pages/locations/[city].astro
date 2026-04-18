@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 
 export function getStaticPaths() {
   const cities = [
-    {
+{
         "name": "bakersfield",
         "display": "Bakersfield, CA",
         "phone": "888-555-0100"
@@ -645,8 +645,133 @@ export function getStaticPaths() {
         "name": "yuma-az",
         "display": "Yuma, AZ",
         "phone": "888-555-0100"
+    },
+    {
+        "name": "seattle",
+        "display": "Seattle, WA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "portland-or",
+        "display": "Portland, OR",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "san-jose",
+        "display": "San Jose, CA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "san-francisco",
+        "display": "San Francisco, CA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "fresno",
+        "display": "Fresno, CA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "bakersfield",
+        "display": "Bakersfield, CA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "reno",
+        "display": "Reno, NV",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "boise",
+        "display": "Boise, ID",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "spokane",
+        "display": "Spokane, WA",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "anchorage",
+        "display": "Anchorage, AK",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "honolulu",
+        "display": "Honolulu, HI",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "billings",
+        "display": "Billings, MT",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "cheyenne",
+        "display": "Cheyenne, WY",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "fargo",
+        "display": "Fargo, ND",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "sioux-falls",
+        "display": "Sioux Falls, SD",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "lincoln",
+        "display": "Lincoln, NE",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "wichita",
+        "display": "Wichita, KS",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "norman",
+        "display": "Norman, OK",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "lawton",
+        "display": "Lawton, OK",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "springfield-mo",
+        "display": "Springfield, MO",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "columbia-mo",
+        "display": "Columbia, MO",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "peoria",
+        "display": "Peoria, IL",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "rockford",
+        "display": "Rockford, IL",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "gary",
+        "display": "Gary, IN",
+        "phone": "888-555-0100"
+    },
+    {
+        "name": "south-bend",
+        "display": "South Bend, IN",
+        "phone": "888-555-0100"
     }
-];
+  ];
 
   return cities.map(city => ({
     params: { city: city.name },
