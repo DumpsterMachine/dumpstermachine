@@ -40,6 +40,7 @@ export function getStaticPaths() {
     { name: 'buffalo', display: 'Buffalo', phone: '888-555-0100' },
     { name: 'charleston', display: 'Charleston', phone: '888-555-0100' },
     { name: 'charlotte', display: 'Charlotte', phone: '888-555-0100' },
+    { name: 'chattanooga-tn', display: 'Chattanooga, TN', phone: '888-555-0100' },
     { name: 'chicago', display: 'Chicago', phone: '888-555-0100' },
     { name: 'cincinnati', display: 'Cincinnati', phone: '888-555-0100' },
     { name: 'cleveland', display: 'Cleveland', phone: '888-555-0100' },
@@ -143,7 +144,9 @@ export function getStaticPaths() {
     { name: 'eau-claire', display: 'Eau Claire, WI', phone: '888-555-0100' },
     { name: 'la-crosse', display: 'La Crosse, WI', phone: '888-555-0100' },
     { name: 'appleton', display: 'Appleton, WI', phone: '888-555-0100' },
-    { name: 'oshkosh', display: 'Oshkosh, WI', phone: '888-555-0100' }
+    { name: 'oshkosh', display: 'Oshkosh, WI', phone: '888-555-0100' },
+    { name: 'boulder', display: 'Boulder, CO', phone: '888-555-0100' },
+    { name: 'pueblo', display: 'Pueblo, CO', phone: '888-555-0100' }
   ];
   return cities.map(city => ({
     params: { city: city.name },
