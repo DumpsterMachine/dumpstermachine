@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import cities from '../../data/cities.json';
+
+export function getStaticPaths() {
+  // Group cities by state
+  const states = {};
+  cities.forEach(city => {
+    if (!states[city.state]) states[city.state] = [];
+    states[city.state].push(city);
+  });
+  
+  return Object.keys(states).map(state => ({
+    params: { state: state.toLowerCase() },
+    props: { state, cities: states[state] },
+  }));
+}
+
+const { state, cities } = Astro.props;
+---
+
+<Layout title={`Dumpster Rental in ${state} | Dumpster Machine`}>
+	<main class="py-20 bg-slate-50">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<h1 class="text-4xl font-black uppercase text-slate-900 mb-12 text-center">Dumpster Rental in {state}</h1>
+			<div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+				{cities.map(city => (
+					<a href={`/locations/${city.state.toLowerCase()}/${city.name}`} class="bg-white p-6 shadow-md border border-slate-200 rounded-sm hover:shadow-lg transition-shadow hover:border-green-500 hover:text-green-600 font-bold uppercase text-center block">
+						{city.display}
+					</a>
+				))}
+			</div>
+		</div>
+	</main>
+</Layout>
