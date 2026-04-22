@@ -45,13 +45,13 @@
         "name": "boston-n.",
         "display": "Boston N.",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MA"
     },
     {
         "name": "boston-s.",
         "display": "Boston S.",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MA"
     },
     {
         "name": "buffalo",
@@ -141,7 +141,7 @@
         "name": "d.c.",
         "display": "D.C.",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "DC"
     },
     {
         "name": "delmarva",
@@ -189,13 +189,13 @@
         "name": "ft.-lauderdale",
         "display": "Ft. Lauderdale",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "ft.-myers",
         "display": "Ft. Myers",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "gainesville",
@@ -483,7 +483,7 @@
         "name": "rochester",
         "display": "Rochester",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NY"
     },
     {
         "name": "sacramento",
@@ -495,19 +495,19 @@
         "name": "salt-lake-city",
         "display": "Salt Lake City",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "UT"
     },
     {
         "name": "san-antonio",
         "display": "San Antonio",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "san-bernardino",
         "display": "San Bernardino",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CA"
     },
     {
         "name": "san-diego",
@@ -519,25 +519,25 @@
         "name": "sarasota",
         "display": "Sarasota",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "savannah",
         "display": "Savannah",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "GA"
     },
     {
         "name": "shreveport",
         "display": "Shreveport",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "LA"
     },
     {
         "name": "south-florida",
         "display": "South Florida",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "springfield",
@@ -549,25 +549,25 @@
         "name": "st.-louis",
         "display": "St. Louis",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MO"
     },
     {
         "name": "tallahassee",
         "display": "Tallahassee",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "tampa",
         "display": "Tampa",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "toledo",
         "display": "Toledo",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OH"
     },
     {
         "name": "tucson",
@@ -591,7 +591,7 @@
         "name": "virginia",
         "display": "Virginia",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "VA"
     },
     {
         "name": "waco",
@@ -609,7 +609,7 @@
         "name": "youngstown",
         "display": "Youngstown",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OH"
     },
     {
         "name": "yuma",
