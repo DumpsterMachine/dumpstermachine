@@ -27,19 +27,19 @@
         "name": "austin",
         "display": "Austin",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "baltimore",
         "display": "Baltimore",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MD"
     },
     {
         "name": "birmingham",
         "display": "Birmingham",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "AL"
     },
     {
         "name": "boston-n.",
@@ -57,19 +57,19 @@
         "name": "buffalo",
         "display": "Buffalo",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NY"
     },
     {
         "name": "charleston",
         "display": "Charleston",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "SC"
     },
     {
         "name": "charlotte",
         "display": "Charlotte",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NC"
     },
     {
         "name": "chattanooga",
@@ -81,25 +81,25 @@
         "name": "chicago",
         "display": "Chicago",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "IL"
     },
     {
         "name": "cincinnati",
         "display": "Cincinnati",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OH"
     },
     {
         "name": "cleveland",
         "display": "Cleveland",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OH"
     },
     {
         "name": "colorado-springs",
         "display": "Colorado Springs",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CO"
     },
     {
         "name": "columbia",
@@ -111,7 +111,7 @@
         "name": "columbus",
         "display": "Columbus",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OH"
     },
     {
         "name": "columbus",
@@ -129,13 +129,13 @@
         "name": "dallas",
         "display": "Dallas",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "daytona",
         "display": "Daytona",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "d.c.",
@@ -147,13 +147,13 @@
         "name": "delmarva",
         "display": "Delmarva",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MD"
     },
     {
         "name": "denver",
         "display": "Denver",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CO"
     },
     {
         "name": "des-moines",
@@ -177,13 +177,13 @@
         "name": "fort-wayne",
         "display": "Fort Wayne",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "IN"
     },
     {
         "name": "fort-worth",
         "display": "Fort Worth",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "ft.-lauderdale",
@@ -207,19 +207,19 @@
         "name": "grand-rapids",
         "display": "Grand Rapids",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MI"
     },
     {
         "name": "green-bay",
         "display": "Green Bay",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "WI"
     },
     {
         "name": "greensboro",
         "display": "Greensboro",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NC"
     },
     {
         "name": "greenville",
@@ -231,43 +231,43 @@
         "name": "hartford",
         "display": "Hartford",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CT"
     },
     {
         "name": "hernando-citrus-sumter-marion",
         "display": "Hernando Citrus Sumter Marion",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "houston",
         "display": "Houston",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "huntsville",
         "display": "Huntsville",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "AL"
     },
     {
         "name": "indianapolis",
         "display": "Indianapolis",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "IN"
     },
     {
         "name": "jacksonville",
         "display": "Jacksonville",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "kansas-city",
         "display": "Kansas City",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MO"
     },
     {
         "name": "knoxville",
