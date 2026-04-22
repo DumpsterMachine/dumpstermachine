@@ -223,10 +223,12 @@ const { city } = Astro.props;
 						<p class="text-slate-600 font-medium">Flat-rate pricing with a generous weight allowance included.</p>
 					</div>
 					<div class="bg-white p-10 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-						<div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">3</div>
-						<h3 class="text-2xl font-black uppercase text-slate-900 mb-4">No Need To Be Home</h3>
-						<p class="text-slate-600 font-medium">We deliver so you can start right when you need to.</p>
-					</div>
+                        <div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">!</div>
+                        <h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Important Compliance Notice</h3>
+                        <p class="text-slate-600 font-medium italic">
+                            Waste disposal regulations, permit requirements, and prohibited item lists change periodically. While we strive to provide the most current information for {city.display}, please verify specific municipal codes with your local city department before starting your project. If you have questions, call us—we’re happy to help you stay compliant.
+                        </p>
+                    </div>
 				</div>
 			</div>
 		</section>

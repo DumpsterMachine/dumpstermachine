@@ -1,81 +1,75 @@
 [
     {
-        "name": "bakersfield",
-        "display": "Bakersfield, CA",
+        "name": "albany",
+        "display": "Albany, NY",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "NY"
     },
     {
-        "name": "stockton",
-        "display": "Stockton, CA",
+        "name": "albuquerque",
+        "display": "Albuquerque, NM",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "NM"
     },
     {
-        "name": "riverside",
-        "display": "Riverside, CA",
+        "name": "atlanta",
+        "display": "Atlanta",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "Unknown"
     },
     {
-        "name": "fresno",
-        "display": "Fresno, CA",
+        "name": "augusta",
+        "display": "Augusta, GA",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "GA"
     },
     {
-        "name": "tucson",
-        "display": "Tucson, AZ",
+        "name": "austin",
+        "display": "Austin",
         "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "Unknown"
     },
     {
-        "name": "el-paso",
-        "display": "El Paso, TX",
+        "name": "baltimore",
+        "display": "Baltimore",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "Unknown"
     },
     {
-        "name": "oklahoma-city",
-        "display": "Oklahoma City, OK",
+        "name": "birmingham",
+        "display": "Birmingham",
         "phone": "888-555-0100",
-        "state": "OK"
+        "state": "Unknown"
     },
     {
-        "name": "tulsa",
-        "display": "Tulsa, OK",
+        "name": "boston-n.",
+        "display": "Boston N.",
         "phone": "888-555-0100",
-        "state": "OK"
+        "state": "Unknown"
     },
     {
-        "name": "wichita",
-        "display": "Wichita, KS",
+        "name": "boston-s.",
+        "display": "Boston S.",
         "phone": "888-555-0100",
-        "state": "KS"
+        "state": "Unknown"
     },
     {
-        "name": "des-moines",
-        "display": "Des Moines, IA",
+        "name": "buffalo",
+        "display": "Buffalo",
         "phone": "888-555-0100",
-        "state": "IA"
+        "state": "Unknown"
     },
     {
-        "name": "madison",
-        "display": "Madison, WI",
+        "name": "charleston",
+        "display": "Charleston",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "Unknown"
     },
     {
-        "name": "louisville",
-        "display": "Louisville, KY",
+        "name": "charlotte",
+        "display": "Charlotte",
         "phone": "888-555-0100",
-        "state": "KY"
-    },
-    {
-        "name": "lexington",
-        "display": "Lexington, KY",
-        "phone": "888-555-0100",
-        "state": "KY"
+        "state": "Unknown"
     },
     {
         "name": "chattanooga",
@@ -84,52 +78,88 @@
         "state": "TN"
     },
     {
-        "name": "mobile",
-        "display": "Mobile, AL",
+        "name": "chicago",
+        "display": "Chicago",
         "phone": "888-555-0100",
-        "state": "AL"
+        "state": "Unknown"
     },
     {
-        "name": "baton-rouge",
-        "display": "Baton Rouge, LA",
+        "name": "cincinnati",
+        "display": "Cincinnati",
         "phone": "888-555-0100",
-        "state": "LA"
+        "state": "Unknown"
     },
     {
-        "name": "jackson",
-        "display": "Jackson, MS",
+        "name": "cleveland",
+        "display": "Cleveland",
         "phone": "888-555-0100",
-        "state": "MS"
+        "state": "Unknown"
     },
     {
-        "name": "seattle",
-        "display": "Seattle, WA",
+        "name": "colorado-springs",
+        "display": "Colorado Springs",
         "phone": "888-555-0100",
-        "state": "WA"
+        "state": "Unknown"
     },
     {
-        "name": "portland",
-        "display": "Portland, OR",
+        "name": "columbia",
+        "display": "Columbia, SC",
         "phone": "888-555-0100",
-        "state": "OR"
+        "state": "SC"
     },
     {
-        "name": "omaha",
-        "display": "Omaha, NE",
+        "name": "columbus",
+        "display": "Columbus",
         "phone": "888-555-0100",
-        "state": "NE"
+        "state": "Unknown"
     },
     {
-        "name": "minneapolis",
-        "display": "Minneapolis, MN",
+        "name": "columbus",
+        "display": "Columbus, GA",
         "phone": "888-555-0100",
-        "state": "MN"
+        "state": "GA"
     },
     {
-        "name": "milwaukee",
-        "display": "Milwaukee, WI",
+        "name": "corpus-christi",
+        "display": "Corpus Christi, TX",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "TX"
+    },
+    {
+        "name": "dallas",
+        "display": "Dallas",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "daytona",
+        "display": "Daytona",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "d.c.",
+        "display": "D.C.",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "delmarva",
+        "display": "Delmarva",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "denver",
+        "display": "Denver",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "des-moines",
+        "display": "Des Moines, IA",
+        "phone": "888-555-0100",
+        "state": "IA"
     },
     {
         "name": "detroit",
@@ -138,1017 +168,453 @@
         "state": "MI"
     },
     {
-        "name": "richmond",
-        "display": "Richmond, VA",
-        "phone": "888-555-0100",
-        "state": "VA"
-    },
-    {
-        "name": "miami",
-        "display": "Miami, FL",
-        "phone": "888-555-0100",
-        "state": "FL"
-    },
-    {
-        "name": "albany-ny",
-        "display": "Albany, NY",
-        "phone": "888-555-0100",
-        "state": "NY"
-    },
-    {
-        "name": "albuquerque-nm",
-        "display": "Albuquerque, NM",
-        "phone": "888-555-0100",
-        "state": "NM"
-    },
-    {
-        "name": "atlanta",
-        "display": "Atlanta, GA",
-        "phone": "888-555-0100",
-        "state": "GA"
-    },
-    {
-        "name": "augusta-ga",
-        "display": "Augusta, GA",
-        "phone": "888-555-0100",
-        "state": "GA"
-    },
-    {
-        "name": "austin",
-        "display": "Austin, TX",
-        "phone": "888-555-0100",
-        "state": "TX"
-    },
-    {
-        "name": "baltimore",
-        "display": "Baltimore, MD",
-        "phone": "888-555-0100",
-        "state": "MD"
-    },
-    {
-        "name": "birmingham",
-        "display": "Birmingham, AL",
-        "phone": "888-555-0100",
-        "state": "AL"
-    },
-    {
-        "name": "boston-n",
-        "display": "Boston N., MA",
-        "phone": "888-555-0100",
-        "state": "MA"
-    },
-    {
-        "name": "boston-s",
-        "display": "Boston S., MA",
-        "phone": "888-555-0100",
-        "state": "MA"
-    },
-    {
-        "name": "buffalo",
-        "display": "Buffalo, NY",
-        "phone": "888-555-0100",
-        "state": "NY"
-    },
-    {
-        "name": "charleston",
-        "display": "Charleston, SC",
-        "phone": "888-555-0100",
-        "state": "SC"
-    },
-    {
-        "name": "charlotte",
-        "display": "Charlotte, NC",
-        "phone": "888-555-0100",
-        "state": "NC"
-    },
-    {
-        "name": "chattanooga-tn",
-        "display": "Chattanooga, TN",
-        "phone": "888-555-0100",
-        "state": "TN"
-    },
-    {
-        "name": "chicago",
-        "display": "Chicago, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "cincinnati",
-        "display": "Cincinnati, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "cleveland",
-        "display": "Cleveland, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "colorado-springs",
-        "display": "Colorado Springs, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "columbia-sc",
-        "display": "Columbia, SC",
-        "phone": "888-555-0100",
-        "state": "SC"
-    },
-    {
-        "name": "columbus",
-        "display": "Columbus, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "columbus-ga",
-        "display": "Columbus, GA",
-        "phone": "888-555-0100",
-        "state": "GA"
-    },
-    {
-        "name": "corpus-christi-tx",
-        "display": "Corpus Christi, TX",
-        "phone": "888-555-0100",
-        "state": "TX"
-    },
-    {
-        "name": "dallas",
-        "display": "Dallas, TX",
-        "phone": "888-555-0100",
-        "state": "TX"
-    },
-    {
-        "name": "daytona",
-        "display": "Daytona, FL",
-        "phone": "888-555-0100",
-        "state": "FL"
-    },
-    {
-        "name": "dc",
-        "display": "D.C.",
-        "phone": "888-555-0100",
-        "state": "DC"
-    },
-    {
-        "name": "delmarva",
-        "display": "Delmarva, MD",
-        "phone": "888-555-0100",
-        "state": "MD"
-    },
-    {
-        "name": "denver",
-        "display": "Denver, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "fayetteville-ar",
+        "name": "fayetteville",
         "display": "Fayetteville, AR",
         "phone": "888-555-0100",
         "state": "AR"
     },
     {
         "name": "fort-wayne",
-        "display": "Fort Wayne, IN",
+        "display": "Fort Wayne",
         "phone": "888-555-0100",
-        "state": "IN"
+        "state": "Unknown"
     },
     {
         "name": "fort-worth",
-        "display": "Fort Worth, TX",
+        "display": "Fort Worth",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "Unknown"
     },
     {
-        "name": "ft-lauderdale",
-        "display": "Ft. Lauderdale, FL",
+        "name": "ft.-lauderdale",
+        "display": "Ft. Lauderdale",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
-        "name": "ft-myers",
-        "display": "Ft. Myers, FL",
+        "name": "ft.-myers",
+        "display": "Ft. Myers",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
-        "name": "gainesville-fl",
+        "name": "gainesville",
         "display": "Gainesville, FL",
         "phone": "888-555-0100",
         "state": "FL"
     },
     {
         "name": "grand-rapids",
-        "display": "Grand Rapids, MI",
+        "display": "Grand Rapids",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "Unknown"
     },
     {
         "name": "green-bay",
-        "display": "Green Bay, WI",
+        "display": "Green Bay",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "Unknown"
     },
     {
         "name": "greensboro",
-        "display": "Greensboro, NC",
+        "display": "Greensboro",
         "phone": "888-555-0100",
-        "state": "NC"
+        "state": "Unknown"
     },
     {
-        "name": "greenville-sc",
+        "name": "greenville",
         "display": "Greenville, SC",
         "phone": "888-555-0100",
         "state": "SC"
     },
     {
         "name": "hartford",
-        "display": "Hartford, CT",
+        "display": "Hartford",
         "phone": "888-555-0100",
-        "state": "CT"
+        "state": "Unknown"
     },
     {
         "name": "hernando-citrus-sumter-marion",
-        "display": "Hernando Citrus Sumter Marion, FL",
+        "display": "Hernando Citrus Sumter Marion",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "houston",
-        "display": "Houston, TX",
+        "display": "Houston",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "Unknown"
     },
     {
         "name": "huntsville",
-        "display": "Huntsville, AL",
+        "display": "Huntsville",
         "phone": "888-555-0100",
-        "state": "AL"
+        "state": "Unknown"
     },
     {
         "name": "indianapolis",
-        "display": "Indianapolis, IN",
+        "display": "Indianapolis",
         "phone": "888-555-0100",
-        "state": "IN"
+        "state": "Unknown"
     },
     {
         "name": "jacksonville",
-        "display": "Jacksonville, FL",
+        "display": "Jacksonville",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
+    },
+    {
+        "name": "kansas-city",
+        "display": "Kansas City",
+        "phone": "888-555-0100",
+        "state": "Unknown"
     },
     {
         "name": "knoxville",
-        "display": "Knoxville, TN",
+        "display": "Knoxville",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "Unknown"
     },
     {
-        "name": "lakeland-fl",
+        "name": "lakeland",
         "display": "Lakeland, FL",
         "phone": "888-555-0100",
         "state": "FL"
     },
     {
         "name": "las-vegas",
-        "display": "Las Vegas, NV",
+        "display": "Las Vegas",
         "phone": "888-555-0100",
-        "state": "NV"
+        "state": "Unknown"
     },
     {
-        "name": "lexington-mi",
+        "name": "lexington",
         "display": "Lexington, MI",
         "phone": "888-555-0100",
         "state": "MI"
     },
     {
         "name": "little-rock",
-        "display": "Little Rock, AR",
+        "display": "Little Rock",
         "phone": "888-555-0100",
-        "state": "AR"
+        "state": "Unknown"
     },
     {
         "name": "long-island",
-        "display": "Long Island, NY",
+        "display": "Long Island",
         "phone": "888-555-0100",
-        "state": "NY"
+        "state": "Unknown"
     },
     {
         "name": "los-angeles",
-        "display": "Los Angeles, CA",
+        "display": "Los Angeles",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "Unknown"
     },
     {
-        "name": "macon-ga",
+        "name": "louisville",
+        "display": "Louisville, KY",
+        "phone": "888-555-0100",
+        "state": "KY"
+    },
+    {
+        "name": "macon",
         "display": "Macon, GA",
         "phone": "888-555-0100",
         "state": "GA"
     },
     {
-        "name": "melbourne-fl",
+        "name": "madison",
+        "display": "Madison, WI",
+        "phone": "888-555-0100",
+        "state": "WI"
+    },
+    {
+        "name": "melbourne",
         "display": "Melbourne, FL",
         "phone": "888-555-0100",
         "state": "FL"
     },
     {
         "name": "memphis",
-        "display": "Memphis, TN",
+        "display": "Memphis",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "Unknown"
     },
     {
         "name": "mid-michigan",
-        "display": "Mid Michigan, MI",
+        "display": "Mid Michigan",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "Unknown"
+    },
+    {
+        "name": "milwaukee",
+        "display": "Milwaukee, WI",
+        "phone": "888-555-0100",
+        "state": "WI"
     },
     {
         "name": "nashville",
-        "display": "Nashville, TN",
+        "display": "Nashville",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "Unknown"
     },
     {
         "name": "new-orleans",
-        "display": "New Orleans, LA",
+        "display": "New Orleans",
         "phone": "888-555-0100",
-        "state": "LA"
+        "state": "Unknown"
     },
     {
         "name": "nj-east",
-        "display": "NJ East, NJ",
+        "display": "NJ East",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "Unknown"
     },
     {
         "name": "nj-north",
-        "display": "NJ North, NJ",
+        "display": "NJ North",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "Unknown"
     },
     {
         "name": "nj-south",
-        "display": "NJ South, NJ",
+        "display": "NJ South",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "Unknown"
     },
     {
         "name": "nj-west",
-        "display": "NJ West, NJ",
+        "display": "NJ West",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "Unknown"
     },
     {
-        "name": "norfolk-va",
+        "name": "norfolk",
         "display": "Norfolk, VA",
         "phone": "888-555-0100",
         "state": "VA"
     },
     {
         "name": "ocala",
-        "display": "Ocala, FL",
+        "display": "Ocala",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "okc",
-        "display": "OKC, OK",
+        "display": "OKC",
         "phone": "888-555-0100",
-        "state": "OK"
+        "state": "Unknown"
+    },
+    {
+        "name": "omaha",
+        "display": "Omaha, NE",
+        "phone": "888-555-0100",
+        "state": "NE"
     },
     {
         "name": "orlando",
-        "display": "Orlando, FL",
+        "display": "Orlando",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "palm-beach",
-        "display": "Palm Beach, FL",
+        "display": "Palm Beach",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "pasco-pinellas",
-        "display": "Pasco Pinellas, FL",
+        "display": "Pasco Pinellas",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "pensacola",
-        "display": "Pensacola, FL",
+        "display": "Pensacola",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "Unknown"
     },
     {
         "name": "philadelphia",
-        "display": "Philadelphia, PA",
+        "display": "Philadelphia",
         "phone": "888-555-0100",
-        "state": "PA"
+        "state": "Unknown"
     },
     {
         "name": "phoenix",
-        "display": "Phoenix, AZ",
+        "display": "Phoenix",
         "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "Unknown"
     },
     {
         "name": "pittsburgh",
-        "display": "Pittsburgh, PA",
+        "display": "Pittsburgh",
         "phone": "888-555-0100",
-        "state": "PA"
+        "state": "Unknown"
     },
     {
-        "name": "providence-ri",
+        "name": "providence",
         "display": "Providence, RI",
         "phone": "888-555-0100",
         "state": "RI"
     },
     {
         "name": "raleigh",
-        "display": "Raleigh, NC",
+        "display": "Raleigh",
         "phone": "888-555-0100",
-        "state": "NC"
+        "state": "Unknown"
+    },
+    {
+        "name": "richmond",
+        "display": "Richmond, VA",
+        "phone": "888-555-0100",
+        "state": "VA"
     },
     {
         "name": "rio-grande-valley",
-        "display": "Rio Grande Valley, TX",
+        "display": "Rio Grande Valley",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "rochester",
+        "display": "Rochester",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "sacramento",
+        "display": "Sacramento",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "salt-lake-city",
+        "display": "Salt Lake City",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "san-antonio",
+        "display": "San Antonio",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "san-bernardino",
+        "display": "San Bernardino",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "san-diego",
+        "display": "San Diego, CA",
+        "phone": "888-555-0100",
+        "state": "CA"
+    },
+    {
+        "name": "sarasota",
+        "display": "Sarasota",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "savannah",
+        "display": "Savannah",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "shreveport",
+        "display": "Shreveport",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "south-florida",
+        "display": "South Florida",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "springfield",
+        "display": "Springfield, MA",
+        "phone": "888-555-0100",
+        "state": "MA"
+    },
+    {
+        "name": "st.-louis",
+        "display": "St. Louis",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "tallahassee",
+        "display": "Tallahassee",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "tampa",
+        "display": "Tampa",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "toledo",
+        "display": "Toledo",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "tucson",
+        "display": "Tucson, AZ",
+        "phone": "888-555-0100",
+        "state": "AZ"
+    },
+    {
+        "name": "tulsa",
+        "display": "Tulsa, OK",
+        "phone": "888-555-0100",
+        "state": "OK"
+    },
+    {
+        "name": "twin-cities",
+        "display": "Twin Cities, MN",
+        "phone": "888-555-0100",
+        "state": "MN"
+    },
+    {
+        "name": "virginia",
+        "display": "Virginia",
+        "phone": "888-555-0100",
+        "state": "Unknown"
+    },
+    {
+        "name": "waco",
+        "display": "Waco, TX",
         "phone": "888-555-0100",
         "state": "TX"
     },
     {
-        "name": "sacramento",
-        "display": "Sacramento, CA",
+        "name": "worcester",
+        "display": "Worcester, MA",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "MA"
     },
     {
-        "name": "san-jose",
-        "display": "San Jose, CA",
+        "name": "youngstown",
+        "display": "Youngstown",
         "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "san-francisco",
-        "display": "San Francisco, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "reno",
-        "display": "Reno, NV",
-        "phone": "888-555-0100",
-        "state": "NV"
-    },
-    {
-        "name": "boise",
-        "display": "Boise, ID",
-        "phone": "888-555-0100",
-        "state": "ID"
-    },
-    {
-        "name": "spokane",
-        "display": "Spokane, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "anchorage",
-        "display": "Anchorage, AK",
-        "phone": "888-555-0100",
-        "state": "AK"
-    },
-    {
-        "name": "honolulu",
-        "display": "Honolulu, HI",
-        "phone": "888-555-0100",
-        "state": "HI"
-    },
-    {
-        "name": "billings",
-        "display": "Billings, MT",
-        "phone": "888-555-0100",
-        "state": "MT"
-    },
-    {
-        "name": "cheyenne",
-        "display": "Cheyenne, WY",
-        "phone": "888-555-0100",
-        "state": "WY"
-    },
-    {
-        "name": "fargo",
-        "display": "Fargo, ND",
-        "phone": "888-555-0100",
-        "state": "ND"
-    },
-    {
-        "name": "sioux-falls",
-        "display": "Sioux Falls, SD",
-        "phone": "888-555-0100",
-        "state": "SD"
-    },
-    {
-        "name": "lincoln",
-        "display": "Lincoln, NE",
-        "phone": "888-555-0100",
-        "state": "NE"
-    },
-    {
-        "name": "norman",
-        "display": "Norman, OK",
-        "phone": "888-555-0100",
-        "state": "OK"
-    },
-    {
-        "name": "lawton",
-        "display": "Lawton, OK",
-        "phone": "888-555-0100",
-        "state": "OK"
-    },
-    {
-        "name": "springfield-mo",
-        "display": "Springfield, MO",
-        "phone": "888-555-0100",
-        "state": "MO"
-    },
-    {
-        "name": "columbia-mo",
-        "display": "Columbia, MO",
-        "phone": "888-555-0100",
-        "state": "MO"
-    },
-    {
-        "name": "peoria",
-        "display": "Peoria, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "rockford",
-        "display": "Rockford, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "gary",
-        "display": "Gary, IN",
-        "phone": "888-555-0100",
-        "state": "IN"
-    },
-    {
-        "name": "south-bend",
-        "display": "South Bend, IN",
-        "phone": "888-555-0100",
-        "state": "IN"
-    },
-    {
-        "name": "akron",
-        "display": "Akron, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "dayton",
-        "display": "Dayton, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "canton",
-        "display": "Canton, OH",
-        "phone": "888-555-0100",
-        "state": "OH"
-    },
-    {
-        "name": "lansing",
-        "display": "Lansing, MI",
-        "phone": "888-555-0100",
-        "state": "MI"
-    },
-    {
-        "name": "ann-arbor",
-        "display": "Ann Arbor, MI",
-        "phone": "888-555-0100",
-        "state": "MI"
-    },
-    {
-        "name": "kalamazoo",
-        "display": "Kalamazoo, MI",
-        "phone": "888-555-0100",
-        "state": "MI"
-    },
-    {
-        "name": "flint",
-        "display": "Flint, MI",
-        "phone": "888-555-0100",
-        "state": "MI"
-    },
-    {
-        "name": "evansville",
-        "display": "Evansville, IN",
-        "phone": "888-555-0100",
-        "state": "IN"
-    },
-    {
-        "name": "bloomington-in",
-        "display": "Bloomington, IN",
-        "phone": "888-555-0100",
-        "state": "IN"
-    },
-    {
-        "name": "lafayette-in",
-        "display": "Lafayette, IN",
-        "phone": "888-555-0100",
-        "state": "IN"
-    },
-    {
-        "name": "champaign",
-        "display": "Champaign, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "springfield-il",
-        "display": "Springfield, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "decatur-il",
-        "display": "Decatur, IL",
-        "phone": "888-555-0100",
-        "state": "IL"
-    },
-    {
-        "name": "davenport",
-        "display": "Davenport, IA",
-        "phone": "888-555-0100",
-        "state": "IA"
-    },
-    {
-        "name": "cedar-rapids",
-        "display": "Cedar Rapids, IA",
-        "phone": "888-555-0100",
-        "state": "IA"
-    },
-    {
-        "name": "waterloo-ia",
-        "display": "Waterloo, IA",
-        "phone": "888-555-0100",
-        "state": "IA"
-    },
-    {
-        "name": "rochester-mn",
-        "display": "Rochester, MN",
-        "phone": "888-555-0100",
-        "state": "MN"
-    },
-    {
-        "name": "duluth",
-        "display": "Duluth, MN",
-        "phone": "888-555-0100",
-        "state": "MN"
-    },
-    {
-        "name": "st-cloud",
-        "display": "St. Cloud, MN",
-        "phone": "888-555-0100",
-        "state": "MN"
-    },
-    {
-        "name": "mankato",
-        "display": "Mankato, MN",
-        "phone": "888-555-0100",
-        "state": "MN"
-    },
-    {
-        "name": "eau-claire",
-        "display": "Eau Claire, WI",
-        "phone": "888-555-0100",
-        "state": "WI"
-    },
-    {
-        "name": "la-crosse",
-        "display": "La Crosse, WI",
-        "phone": "888-555-0100",
-        "state": "WI"
-    },
-    {
-        "name": "appleton",
-        "display": "Appleton, WI",
-        "phone": "888-555-0100",
-        "state": "WI"
-    },
-    {
-        "name": "oshkosh",
-        "display": "Oshkosh, WI",
-        "phone": "888-555-0100",
-        "state": "WI"
-    },
-    {
-        "name": "boulder",
-        "display": "Boulder, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "fort-collins",
-        "display": "Fort Collins, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "pueblo",
-        "display": "Pueblo, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "greeley",
-        "display": "Greeley, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "grand-junction",
-        "display": "Grand Junction, CO",
-        "phone": "888-555-0100",
-        "state": "CO"
-    },
-    {
-        "name": "santa-fe",
-        "display": "Santa Fe, NM",
-        "phone": "888-555-0100",
-        "state": "NM"
-    },
-    {
-        "name": "las-cruces",
-        "display": "Las Cruces, NM",
-        "phone": "888-555-0100",
-        "state": "NM"
-    },
-    {
-        "name": "roswell",
-        "display": "Roswell, NM",
-        "phone": "888-555-0100",
-        "state": "NM"
-    },
-    {
-        "name": "farmington",
-        "display": "Farmington, NM",
-        "phone": "888-555-0100",
-        "state": "NM"
-    },
-    {
-        "name": "flagstaff",
-        "display": "Flagstaff, AZ",
-        "phone": "888-555-0100",
-        "state": "AZ"
-    },
-    {
-        "name": "prescott",
-        "display": "Prescott, AZ",
-        "phone": "888-555-0100",
-        "state": "AZ"
-    },
-    {
-        "name": "sedona",
-        "display": "Sedona, AZ",
-        "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "Unknown"
     },
     {
         "name": "yuma",
         "display": "Yuma, AZ",
         "phone": "888-555-0100",
         "state": "AZ"
-    },
-    {
-        "name": "logan",
-        "display": "Logan, UT",
-        "phone": "888-555-0100",
-        "state": "UT"
-    },
-    {
-        "name": "st-george",
-        "display": "St. George, UT",
-        "phone": "888-555-0100",
-        "state": "UT"
-    },
-    {
-        "name": "ogden",
-        "display": "Ogden, UT",
-        "phone": "888-555-0100",
-        "state": "UT"
-    },
-    {
-        "name": "provo",
-        "display": "Provo, UT",
-        "phone": "888-555-0100",
-        "state": "UT"
-    },
-    {
-        "name": "idaho-falls",
-        "display": "Idaho Falls, ID",
-        "phone": "888-555-0100",
-        "state": "ID"
-    },
-    {
-        "name": "pocatello",
-        "display": "Pocatello, ID",
-        "phone": "888-555-0100",
-        "state": "ID"
-    },
-    {
-        "name": "twin-falls",
-        "display": "Twin Falls, ID",
-        "phone": "888-555-0100",
-        "state": "ID"
-    },
-    {
-        "name": "missoula",
-        "display": "Missoula, MT",
-        "phone": "888-555-0100",
-        "state": "MT"
-    },
-    {
-        "name": "bozeman",
-        "display": "Bozeman, MT",
-        "phone": "888-555-0100",
-        "state": "MT"
-    },
-    {
-        "name": "great-falls",
-        "display": "Great Falls, MT",
-        "phone": "888-555-0100",
-        "state": "MT"
-    },
-    {
-        "name": "casper",
-        "display": "Casper, WY",
-        "phone": "888-555-0100",
-        "state": "WY"
-    },
-    {
-        "name": "laramie",
-        "display": "Laramie, WY",
-        "phone": "888-555-0100",
-        "state": "WY"
-    },
-    {
-        "name": "tacoma",
-        "display": "Tacoma, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "vancouver",
-        "display": "Vancouver, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "bellevue",
-        "display": "Bellevue, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "kent",
-        "display": "Kent, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "everett",
-        "display": "Everett, WA",
-        "phone": "888-555-0100",
-        "state": "WA"
-    },
-    {
-        "name": "salem",
-        "display": "Salem, OR",
-        "phone": "888-555-0100",
-        "state": "OR"
-    },
-    {
-        "name": "eugene",
-        "display": "Eugene, OR",
-        "phone": "888-555-0100",
-        "state": "OR"
-    },
-    {
-        "name": "gresham",
-        "display": "Gresham, OR",
-        "phone": "888-555-0100",
-        "state": "OR"
-    },
-    {
-        "name": "hillsboro",
-        "display": "Hillsboro, OR",
-        "phone": "888-555-0100",
-        "state": "OR"
-    },
-    {
-        "name": "bend",
-        "display": "Bend, OR",
-        "phone": "888-555-0100",
-        "state": "OR"
-    },
-    {
-        "name": "ontario",
-        "display": "Ontario, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "fontana",
-        "display": "Fontana, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "moreno-valley",
-        "display": "Moreno Valley, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "santa-ana",
-        "display": "Santa Ana, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "anaheim",
-        "display": "Anaheim, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "irvine",
-        "display": "Irvine, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "chula-vista",
-        "display": "Chula Vista, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "fremont",
-        "display": "Fremont, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "santa-clarita",
-        "display": "Santa Clarita, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "oxnard",
-        "display": "Oxnard, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "salinas",
-        "display": "Salinas, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "modesto",
-        "display": "Modesto, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "santa-rosa",
-        "display": "Santa Rosa, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "hayward",
-        "display": "Hayward, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
-    },
-    {
-        "name": "elk-grove",
-        "display": "Elk Grove, CA",
-        "phone": "888-555-0100",
-        "state": "CA"
     }
 ]
