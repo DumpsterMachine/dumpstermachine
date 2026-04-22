@@ -117,7 +117,7 @@
         "name": "columbus",
         "display": "Columbus, GA",
         "phone": "888-555-0100",
-        "state": "GA"
+        "state": "OH"
     },
     {
         "name": "corpus-christi",
@@ -273,7 +273,7 @@
         "name": "knoxville",
         "display": "Knoxville",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TN"
     },
     {
         "name": "lakeland",
@@ -285,31 +285,31 @@
         "name": "las-vegas",
         "display": "Las Vegas",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NV"
     },
     {
         "name": "lexington",
         "display": "Lexington, MI",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "KY"
     },
     {
         "name": "little-rock",
         "display": "Little Rock",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "AR"
     },
     {
         "name": "long-island",
         "display": "Long Island",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NY"
     },
     {
         "name": "los-angeles",
         "display": "Los Angeles",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CA"
     },
     {
         "name": "louisville",
@@ -339,13 +339,13 @@
         "name": "memphis",
         "display": "Memphis",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TN"
     },
     {
         "name": "mid-michigan",
         "display": "Mid Michigan",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "MI"
     },
     {
         "name": "milwaukee",
@@ -357,37 +357,37 @@
         "name": "nashville",
         "display": "Nashville",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TN"
     },
     {
         "name": "new-orleans",
         "display": "New Orleans",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "LA"
     },
     {
         "name": "nj-east",
         "display": "NJ East",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NJ"
     },
     {
         "name": "nj-north",
         "display": "NJ North",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NJ"
     },
     {
         "name": "nj-south",
         "display": "NJ South",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NJ"
     },
     {
         "name": "nj-west",
         "display": "NJ West",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NJ"
     },
     {
         "name": "norfolk",
@@ -399,13 +399,13 @@
         "name": "ocala",
         "display": "Ocala",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "okc",
         "display": "OKC",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "OK"
     },
     {
         "name": "omaha",
@@ -417,43 +417,43 @@
         "name": "orlando",
         "display": "Orlando",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "palm-beach",
         "display": "Palm Beach",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "pasco-pinellas",
         "display": "Pasco Pinellas",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "pensacola",
         "display": "Pensacola",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "FL"
     },
     {
         "name": "philadelphia",
         "display": "Philadelphia",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "PA"
     },
     {
         "name": "phoenix",
         "display": "Phoenix",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "AZ"
     },
     {
         "name": "pittsburgh",
         "display": "Pittsburgh",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "PA"
     },
     {
         "name": "providence",
@@ -465,7 +465,7 @@
         "name": "raleigh",
         "display": "Raleigh",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "NC"
     },
     {
         "name": "richmond",
@@ -477,7 +477,7 @@
         "name": "rio-grande-valley",
         "display": "Rio Grande Valley",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "TX"
     },
     {
         "name": "rochester",
@@ -489,7 +489,7 @@
         "name": "sacramento",
         "display": "Sacramento",
         "phone": "888-555-0100",
-        "state": "Unknown"
+        "state": "CA"
     },
     {
         "name": "salt-lake-city",
