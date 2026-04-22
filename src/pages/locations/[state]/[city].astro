@@ -22,27 +22,16 @@ const { city } = Astro.props;
 			<div class="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-slate-900/40 to-transparent"></div>
 			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
 				<h1 class="text-5xl md:text-7xl font-black mb-6 leading-tight tracking-tighter uppercase text-white">
-					Dumpster Rental in <br class="hidden md:block"/>
-					<span class="text-green-500">{city.display}</span>
+					Dumpster Rental in {city.display}
 				</h1>
 				<p class="text-xl md:text-2xl mb-12 max-w-3xl mx-auto text-slate-300 font-medium">
-					Tackling a big project in {city.display}? Let us handle the waste. Kick back and relax—<strong class="text-white bg-green-600/30 px-2 py-1 rounded border border-green-500/50">you don't even need to be home for delivery!</strong>
+					Tackling a big project in {city.display}? Let us handle the waste. Kick back and relax—you don't even need to be home for delivery!
 				</p>
 				<div class="flex flex-col sm:flex-row justify-center gap-4">
 					<a href="/quote" class="bg-green-600 text-slate-900 font-black text-xl px-10 py-5 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.5)] hover:shadow-[2px_2px_0px_rgba(0,0,0,0.5)] hover:translate-y-[4px] hover:translate-x-[4px] transition-all uppercase tracking-wider block sm:inline-block">
 						See Flat-Rate Pricing
 					</a>
 				</div>
-			</div>
-		</section>
-
-		<!-- City Specific Local Content -->
-		<section class="py-20 bg-white">
-			<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-				<h2 class="text-3xl font-black uppercase text-slate-900 mb-6">Local Guidelines for {city.display}</h2>
-				<p class="text-lg text-slate-700 leading-relaxed italic border-l-4 border-green-500 pl-6">
-					{city.uniqueContent}
-				</p>
 			</div>
 		</section>
 
@@ -84,13 +73,11 @@ const { city } = Astro.props;
         <section class="py-20 bg-slate-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 				<div class="grid md:grid-cols-2 gap-12">
-					<!-- Watchlist -->
 					<div class="bg-white p-10 border-l-4 border-red-600 shadow-lg">
 						<h3 class="text-2xl font-black uppercase text-red-600 mb-4">Prohibited Items</h3>
 						<p class="text-slate-600 mb-4">To avoid extra fees, review local restricted items (tires, batteries, etc.) for {city.display}. Never assume an item is safe—call us if you're unsure.</p>
 						<a href="tel:8885550100" class="text-green-600 font-black">Call to Verify: 888-555-0100</a>
 					</div>
-					<!-- FAQ -->
 					<div class="bg-white p-10 border-l-4 border-green-600 shadow-lg">
 						<h3 class="text-2xl font-black uppercase text-green-600 mb-4">{city.display} FAQs</h3>
 						<p class="text-slate-600 font-bold mb-2">Do I need a permit in {city.display}?</p>
