@@ -36,46 +36,69 @@ const { city } = Astro.props;
 			</div>
 		</section>
 
-		<!-- Guarantees Section -->
-		<section class="py-20 bg-slate-50">
+		<!-- City Specific Local Content -->
+		<section class="py-20 bg-white">
+			<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+				<h2 class="text-3xl font-black uppercase text-slate-900 mb-6">Local Guidelines for {city.display}</h2>
+				<p class="text-lg text-slate-700 leading-relaxed italic border-l-4 border-green-500 pl-6">
+					{city.uniqueContent}
+				</p>
+			</div>
+		</section>
+
+		<!-- Size Guide -->
+		<section class="py-20">
 			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-				<div class="text-center mb-16">
-					<h2 class="text-4xl font-black uppercase text-slate-900 tracking-tight">The Dumpster Machine Difference</h2>
-				</div>
-				
+				<h2 class="text-4xl font-black uppercase text-slate-900 mb-12 text-center">Dumpster Size Guide</h2>
 				<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-					<div class="bg-white p-10 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-						<div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">1</div>
-						<h3 class="text-2xl font-black uppercase text-slate-900 mb-4">The $50 On-Time Guarantee</h3>
-						<p class="text-slate-600 font-medium">If we don't deliver on the day we agreed to, we refund you $50.</p>
+					<div class="bg-white p-8 border-2 border-slate-900 shadow-md">
+						<h3 class="text-xl font-black uppercase mb-2">10-Yard Bin</h3>
+						<p class="text-slate-600">Ideal for single-room cleanouts or small bathroom renovations.</p>
 					</div>
-					<div class="bg-white p-10 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-						<div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">2</div>
-						<h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Transparent Pricing</h3>
-						<p class="text-slate-600 font-medium">Flat-rate pricing with a generous weight allowance included.</p>
+					<div class="bg-white p-8 border-2 border-slate-900 shadow-md">
+						<h3 class="text-xl font-black uppercase mb-2">20-Yard Bin</h3>
+						<p class="text-slate-600">The perfect all-rounder for general junk removal or medium home projects.</p>
 					</div>
-					<div class="bg-white p-10 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-						<div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">3</div>
-						<h3 class="text-2xl font-black uppercase text-slate-900 mb-4">No Need To Be Home</h3>
-						<p class="text-slate-600 font-medium">We deliver so you can start right when you need to.</p>
+					<div class="bg-white p-8 border-2 border-slate-900 shadow-md">
+						<h3 class="text-xl font-black uppercase mb-2">30-Yard Bin</h3>
+						<p class="text-slate-600">Built for full home renovations and large-scale construction debris.</p>
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<!-- Prohibited Items Watchlist -->
-        <section class="py-20 bg-slate-900 text-white">
+		<!-- Process Timeline -->
+		<section class="py-20 bg-slate-900 text-white">
+			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+				<h2 class="text-4xl font-black uppercase mb-12 text-center text-green-500">How It Works</h2>
+				<div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
+					<div><div class="text-4xl font-black mb-2">1</div><p class="font-bold">Book Online</p></div>
+					<div><div class="text-4xl font-black mb-2">2</div><p class="font-bold">We Prepare Delivery</p></div>
+					<div><div class="text-4xl font-black mb-2">3</div><p class="font-bold">You Load It Up</p></div>
+					<div><div class="text-4xl font-black mb-2">4</div><p class="font-bold">We Haul It Away</p></div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Prohibited Items & FAQ -->
+        <section class="py-20 bg-slate-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="bg-slate-800 p-10 border-l-4 border-green-600 rounded-sm">
-                    <h3 class="text-2xl font-black uppercase text-green-500 mb-4">Important: Prohibited Items & {city.display} Guidelines</h3>
-                    <p class="text-slate-300 font-medium leading-relaxed mb-6">
-                        Regulations regarding restricted waste (such as tires, appliances, batteries, and certain chemicals) change frequently based on city and landfill guidelines for {city.display}.
-                    </p>
-                    <p class="text-white font-bold mb-6">
-                        Because these lists evolve, please never assume an item is safe to load. If you are unsure about any material in {city.display}, please call us first to confirm—it’s much better to ask than to incur an unexpected surcharge or violation.
-                    </p>
-                    <a href="tel:8885550100" class="inline-block bg-green-600 text-white font-black py-3 px-6 rounded-sm uppercase tracking-wider hover:bg-green-700 transition">Call to Verify Items: 888-555-0100</a>
-                </div>
+				<div class="grid md:grid-cols-2 gap-12">
+					<!-- Watchlist -->
+					<div class="bg-white p-10 border-l-4 border-red-600 shadow-lg">
+						<h3 class="text-2xl font-black uppercase text-red-600 mb-4">Prohibited Items</h3>
+						<p class="text-slate-600 mb-4">To avoid extra fees, review local restricted items (tires, batteries, etc.) for {city.display}. Never assume an item is safe—call us if you're unsure.</p>
+						<a href="tel:8885550100" class="text-green-600 font-black">Call to Verify: 888-555-0100</a>
+					</div>
+					<!-- FAQ -->
+					<div class="bg-white p-10 border-l-4 border-green-600 shadow-lg">
+						<h3 class="text-2xl font-black uppercase text-green-600 mb-4">{city.display} FAQs</h3>
+						<p class="text-slate-600 font-bold mb-2">Do I need a permit in {city.display}?</p>
+						<p class="text-slate-500 mb-4 text-sm">Most street placements require local authorization. Check city hall guidelines.</p>
+						<p class="text-slate-600 font-bold mb-2">Weight allowances in {city.display}?</p>
+						<p class="text-slate-500 text-sm">Every rental includes a specific weight allowance for local landfill rates.</p>
+					</div>
+				</div>
             </div>
         </section>
 	</main>

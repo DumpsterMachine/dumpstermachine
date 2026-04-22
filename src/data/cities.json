@@ -3,618 +3,721 @@
         "name": "albany",
         "display": "Albany, NY",
         "phone": "888-555-0100",
-        "state": "NY"
+        "state": "NY",
+        "uniqueContent": "In the Albany region, local disposal guidelines prioritize recycling construction and demolition (C&D) debris to align with NY State Department of Environmental Conservation (DEC) waste diversion goals. Ensure all concrete and metal are kept separate to avoid landfill surcharges."
     },
     {
         "name": "albuquerque",
         "display": "Albuquerque, NM",
         "phone": "888-555-0100",
-        "state": "NM"
+        "state": "NM",
+        "uniqueContent": "New Mexico waste guidelines focus on the safe disposal of mixed construction materials. Ensure your site placement allows for easy truck access in compliance with local zoning."
     },
     {
         "name": "atlanta",
         "display": "Atlanta",
         "phone": "888-555-0100",
-        "state": "GA"
+        "state": "GA",
+        "uniqueContent": "In Georgia, waste management facilities require that all household junk and construction debris be free of regulated hazardous waste. Ensure all items are non-combustible and compliant with regional environmental guidelines."
     },
     {
         "name": "augusta",
         "display": "Augusta, GA",
         "phone": "888-555-0100",
-        "state": "GA"
+        "state": "GA",
+        "uniqueContent": "In Georgia, waste management facilities require that all household junk and construction debris be free of regulated hazardous waste. Ensure all items are non-combustible and compliant with regional environmental guidelines."
     },
     {
         "name": "austin",
         "display": "Austin",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "baltimore",
         "display": "Baltimore",
         "phone": "888-555-0100",
-        "state": "MD"
+        "state": "MD",
+        "uniqueContent": "Our local partners in Baltimore follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "birmingham",
         "display": "Birmingham",
         "phone": "888-555-0100",
-        "state": "AL"
+        "state": "AL",
+        "uniqueContent": "Our local partners in Birmingham follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "boston-n.",
         "display": "Boston N.",
         "phone": "888-555-0100",
-        "state": "MA"
+        "state": "MA",
+        "uniqueContent": "Our local partners in Boston N. follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "boston-s.",
         "display": "Boston S.",
         "phone": "888-555-0100",
-        "state": "MA"
+        "state": "MA",
+        "uniqueContent": "Our local partners in Boston S. follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "buffalo",
         "display": "Buffalo",
         "phone": "888-555-0100",
-        "state": "NY"
+        "state": "NY",
+        "uniqueContent": "In the Albany region, local disposal guidelines prioritize recycling construction and demolition (C&D) debris to align with NY State Department of Environmental Conservation (DEC) waste diversion goals. Ensure all concrete and metal are kept separate to avoid landfill surcharges."
     },
     {
         "name": "charleston",
         "display": "Charleston",
         "phone": "888-555-0100",
-        "state": "SC"
+        "state": "SC",
+        "uniqueContent": "Our local partners in Charleston follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "charlotte",
         "display": "Charlotte",
         "phone": "888-555-0100",
-        "state": "NC"
+        "state": "NC",
+        "uniqueContent": "Our local partners in Charlotte follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "chattanooga",
         "display": "Chattanooga, TN",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "TN",
+        "uniqueContent": "Our local partners in Chattanooga, TN follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "chicago",
         "display": "Chicago",
         "phone": "888-555-0100",
-        "state": "IL"
+        "state": "IL",
+        "uniqueContent": "Our local partners in Chicago follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "cincinnati",
         "display": "Cincinnati",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Cincinnati follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "cleveland",
         "display": "Cleveland",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Cleveland follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "colorado-springs",
         "display": "Colorado Springs",
         "phone": "888-555-0100",
-        "state": "CO"
+        "state": "CO",
+        "uniqueContent": "Local Colorado landfill guidelines for the Mountain West emphasize that all debris must be securely contained; loads reaching above the top rim of the dumpster cannot be transported."
     },
     {
         "name": "columbia",
         "display": "Columbia, SC",
         "phone": "888-555-0100",
-        "state": "SC"
+        "state": "SC",
+        "uniqueContent": "Our local partners in Columbia, SC follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "columbus",
         "display": "Columbus",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Columbus follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "columbus",
         "display": "Columbus, GA",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Columbus, GA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "corpus-christi",
         "display": "Corpus Christi, TX",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "dallas",
         "display": "Dallas",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "daytona",
         "display": "Daytona",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Daytona follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "d.c.",
         "display": "D.C.",
         "phone": "888-555-0100",
-        "state": "DC"
+        "state": "DC",
+        "uniqueContent": "Our local partners in D.C. follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "delmarva",
         "display": "Delmarva",
         "phone": "888-555-0100",
-        "state": "MD"
+        "state": "MD",
+        "uniqueContent": "Our local partners in Delmarva follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "denver",
         "display": "Denver",
         "phone": "888-555-0100",
-        "state": "CO"
+        "state": "CO",
+        "uniqueContent": "Local Colorado landfill guidelines for the Mountain West emphasize that all debris must be securely contained; loads reaching above the top rim of the dumpster cannot be transported."
     },
     {
         "name": "des-moines",
         "display": "Des Moines, IA",
         "phone": "888-555-0100",
-        "state": "IA"
+        "state": "IA",
+        "uniqueContent": "Our local partners in Des Moines, IA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "detroit",
         "display": "Detroit, MI",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "MI",
+        "uniqueContent": "Our local partners in Detroit, MI follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "fayetteville",
         "display": "Fayetteville, AR",
         "phone": "888-555-0100",
-        "state": "AR"
+        "state": "AR",
+        "uniqueContent": "Our local partners in Fayetteville, AR follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "fort-wayne",
         "display": "Fort Wayne",
         "phone": "888-555-0100",
-        "state": "IN"
+        "state": "IN",
+        "uniqueContent": "Our local partners in Fort Wayne follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "fort-worth",
         "display": "Fort Worth",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "ft.-lauderdale",
         "display": "Ft. Lauderdale",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Ft. Lauderdale follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "ft.-myers",
         "display": "Ft. Myers",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Ft. Myers follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "gainesville",
         "display": "Gainesville, FL",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Gainesville, FL follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "grand-rapids",
         "display": "Grand Rapids",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "MI",
+        "uniqueContent": "Our local partners in Grand Rapids follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "green-bay",
         "display": "Green Bay",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "WI",
+        "uniqueContent": "Our local partners in Green Bay follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "greensboro",
         "display": "Greensboro",
         "phone": "888-555-0100",
-        "state": "NC"
+        "state": "NC",
+        "uniqueContent": "Our local partners in Greensboro follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "greenville",
         "display": "Greenville, SC",
         "phone": "888-555-0100",
-        "state": "SC"
+        "state": "SC",
+        "uniqueContent": "Our local partners in Greenville, SC follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "hartford",
         "display": "Hartford",
         "phone": "888-555-0100",
-        "state": "CT"
+        "state": "CT",
+        "uniqueContent": "Our local partners in Hartford follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "hernando-citrus-sumter-marion",
         "display": "Hernando Citrus Sumter Marion",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Hernando Citrus Sumter Marion follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "houston",
         "display": "Houston",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "huntsville",
         "display": "Huntsville",
         "phone": "888-555-0100",
-        "state": "AL"
+        "state": "AL",
+        "uniqueContent": "Our local partners in Huntsville follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "indianapolis",
         "display": "Indianapolis",
         "phone": "888-555-0100",
-        "state": "IN"
+        "state": "IN",
+        "uniqueContent": "Our local partners in Indianapolis follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "jacksonville",
         "display": "Jacksonville",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Jacksonville follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "kansas-city",
         "display": "Kansas City",
         "phone": "888-555-0100",
-        "state": "MO"
+        "state": "MO",
+        "uniqueContent": "Our local partners in Kansas City follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "knoxville",
         "display": "Knoxville",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "TN",
+        "uniqueContent": "Our local partners in Knoxville follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "lakeland",
         "display": "Lakeland, FL",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Lakeland, FL follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "las-vegas",
         "display": "Las Vegas",
         "phone": "888-555-0100",
-        "state": "NV"
+        "state": "NV",
+        "uniqueContent": "Our local partners in Las Vegas follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "lexington",
         "display": "Lexington, MI",
         "phone": "888-555-0100",
-        "state": "KY"
+        "state": "KY",
+        "uniqueContent": "Our local partners in Lexington, MI follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "little-rock",
         "display": "Little Rock",
         "phone": "888-555-0100",
-        "state": "AR"
+        "state": "AR",
+        "uniqueContent": "Our local partners in Little Rock follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "long-island",
         "display": "Long Island",
         "phone": "888-555-0100",
-        "state": "NY"
+        "state": "NY",
+        "uniqueContent": "In the Albany region, local disposal guidelines prioritize recycling construction and demolition (C&D) debris to align with NY State Department of Environmental Conservation (DEC) waste diversion goals. Ensure all concrete and metal are kept separate to avoid landfill surcharges."
     },
     {
         "name": "los-angeles",
         "display": "Los Angeles",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "CA",
+        "uniqueContent": "California environmental regulations, particularly in the Southern CA region, have strict guidelines on what can be processed at local transfer stations. Always ensure your load is free of e-waste or prohibited chemical materials."
     },
     {
         "name": "louisville",
         "display": "Louisville, KY",
         "phone": "888-555-0100",
-        "state": "KY"
+        "state": "KY",
+        "uniqueContent": "Our local partners in Louisville, KY follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "macon",
         "display": "Macon, GA",
         "phone": "888-555-0100",
-        "state": "GA"
+        "state": "GA",
+        "uniqueContent": "In Georgia, waste management facilities require that all household junk and construction debris be free of regulated hazardous waste. Ensure all items are non-combustible and compliant with regional environmental guidelines."
     },
     {
         "name": "madison",
         "display": "Madison, WI",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "WI",
+        "uniqueContent": "Our local partners in Madison, WI follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "melbourne",
         "display": "Melbourne, FL",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Melbourne, FL follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "memphis",
         "display": "Memphis",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "TN",
+        "uniqueContent": "Our local partners in Memphis follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "mid-michigan",
         "display": "Mid Michigan",
         "phone": "888-555-0100",
-        "state": "MI"
+        "state": "MI",
+        "uniqueContent": "Our local partners in Mid Michigan follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "milwaukee",
         "display": "Milwaukee, WI",
         "phone": "888-555-0100",
-        "state": "WI"
+        "state": "WI",
+        "uniqueContent": "Our local partners in Milwaukee, WI follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "nashville",
         "display": "Nashville",
         "phone": "888-555-0100",
-        "state": "TN"
+        "state": "TN",
+        "uniqueContent": "Our local partners in Nashville follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "new-orleans",
         "display": "New Orleans",
         "phone": "888-555-0100",
-        "state": "LA"
+        "state": "LA",
+        "uniqueContent": "Our local partners in New Orleans follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "nj-east",
         "display": "NJ East",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "NJ",
+        "uniqueContent": "Our local partners in NJ East follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "nj-north",
         "display": "NJ North",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "NJ",
+        "uniqueContent": "Our local partners in NJ North follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "nj-south",
         "display": "NJ South",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "NJ",
+        "uniqueContent": "Our local partners in NJ South follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "nj-west",
         "display": "NJ West",
         "phone": "888-555-0100",
-        "state": "NJ"
+        "state": "NJ",
+        "uniqueContent": "Our local partners in NJ West follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "norfolk",
         "display": "Norfolk, VA",
         "phone": "888-555-0100",
-        "state": "VA"
+        "state": "VA",
+        "uniqueContent": "Our local partners in Norfolk, VA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "ocala",
         "display": "Ocala",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Ocala follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "okc",
         "display": "OKC",
         "phone": "888-555-0100",
-        "state": "OK"
+        "state": "OK",
+        "uniqueContent": "Our local partners in OKC follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "omaha",
         "display": "Omaha, NE",
         "phone": "888-555-0100",
-        "state": "NE"
+        "state": "NE",
+        "uniqueContent": "Our local partners in Omaha, NE follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "orlando",
         "display": "Orlando",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Orlando follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "palm-beach",
         "display": "Palm Beach",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Palm Beach follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "pasco-pinellas",
         "display": "Pasco Pinellas",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Pasco Pinellas follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "pensacola",
         "display": "Pensacola",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Pensacola follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "philadelphia",
         "display": "Philadelphia",
         "phone": "888-555-0100",
-        "state": "PA"
+        "state": "PA",
+        "uniqueContent": "Our local partners in Philadelphia follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "phoenix",
         "display": "Phoenix",
         "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "AZ",
+        "uniqueContent": "In Arizona, landfill management for roll-offs follows specific desert-region safety standards to prevent dust and material dispersal during transport."
     },
     {
         "name": "pittsburgh",
         "display": "Pittsburgh",
         "phone": "888-555-0100",
-        "state": "PA"
+        "state": "PA",
+        "uniqueContent": "Our local partners in Pittsburgh follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "providence",
         "display": "Providence, RI",
         "phone": "888-555-0100",
-        "state": "RI"
+        "state": "RI",
+        "uniqueContent": "Our local partners in Providence, RI follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "raleigh",
         "display": "Raleigh",
         "phone": "888-555-0100",
-        "state": "NC"
+        "state": "NC",
+        "uniqueContent": "Our local partners in Raleigh follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "richmond",
         "display": "Richmond, VA",
         "phone": "888-555-0100",
-        "state": "VA"
+        "state": "VA",
+        "uniqueContent": "Our local partners in Richmond, VA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "rio-grande-valley",
         "display": "Rio Grande Valley",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "rochester",
         "display": "Rochester",
         "phone": "888-555-0100",
-        "state": "NY"
+        "state": "NY",
+        "uniqueContent": "In the Albany region, local disposal guidelines prioritize recycling construction and demolition (C&D) debris to align with NY State Department of Environmental Conservation (DEC) waste diversion goals. Ensure all concrete and metal are kept separate to avoid landfill surcharges."
     },
     {
         "name": "sacramento",
         "display": "Sacramento",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "CA",
+        "uniqueContent": "California environmental regulations, particularly in the Southern CA region, have strict guidelines on what can be processed at local transfer stations. Always ensure your load is free of e-waste or prohibited chemical materials."
     },
     {
         "name": "salt-lake-city",
         "display": "Salt Lake City",
         "phone": "888-555-0100",
-        "state": "UT"
+        "state": "UT",
+        "uniqueContent": "In Utah, local disposal facilities require that all construction and landscaping debris be free of contaminated materials to remain compliant with state landfill safety standards."
     },
     {
         "name": "san-antonio",
         "display": "San Antonio",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "san-bernardino",
         "display": "San Bernardino",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "CA",
+        "uniqueContent": "California environmental regulations, particularly in the Southern CA region, have strict guidelines on what can be processed at local transfer stations. Always ensure your load is free of e-waste or prohibited chemical materials."
     },
     {
         "name": "san-diego",
         "display": "San Diego, CA",
         "phone": "888-555-0100",
-        "state": "CA"
+        "state": "CA",
+        "uniqueContent": "California environmental regulations, particularly in the Southern CA region, have strict guidelines on what can be processed at local transfer stations. Always ensure your load is free of e-waste or prohibited chemical materials."
     },
     {
         "name": "sarasota",
         "display": "Sarasota",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Sarasota follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "savannah",
         "display": "Savannah",
         "phone": "888-555-0100",
-        "state": "GA"
+        "state": "GA",
+        "uniqueContent": "In Georgia, waste management facilities require that all household junk and construction debris be free of regulated hazardous waste. Ensure all items are non-combustible and compliant with regional environmental guidelines."
     },
     {
         "name": "shreveport",
         "display": "Shreveport",
         "phone": "888-555-0100",
-        "state": "LA"
+        "state": "LA",
+        "uniqueContent": "Our local partners in Shreveport follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "south-florida",
         "display": "South Florida",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in South Florida follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "springfield",
         "display": "Springfield, MA",
         "phone": "888-555-0100",
-        "state": "MA"
+        "state": "MA",
+        "uniqueContent": "Our local partners in Springfield, MA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "st.-louis",
         "display": "St. Louis",
         "phone": "888-555-0100",
-        "state": "MO"
+        "state": "MO",
+        "uniqueContent": "Our local partners in St. Louis follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "tallahassee",
         "display": "Tallahassee",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Tallahassee follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "tampa",
         "display": "Tampa",
         "phone": "888-555-0100",
-        "state": "FL"
+        "state": "FL",
+        "uniqueContent": "Our local partners in Tampa follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "toledo",
         "display": "Toledo",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Toledo follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "tucson",
         "display": "Tucson, AZ",
         "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "AZ",
+        "uniqueContent": "In Arizona, landfill management for roll-offs follows specific desert-region safety standards to prevent dust and material dispersal during transport."
     },
     {
         "name": "tulsa",
         "display": "Tulsa, OK",
         "phone": "888-555-0100",
-        "state": "OK"
+        "state": "OK",
+        "uniqueContent": "Our local partners in Tulsa, OK follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "twin-cities",
         "display": "Twin Cities, MN",
         "phone": "888-555-0100",
-        "state": "MN"
+        "state": "MN",
+        "uniqueContent": "Our local partners in Twin Cities, MN follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "virginia",
         "display": "Virginia",
         "phone": "888-555-0100",
-        "state": "VA"
+        "state": "VA",
+        "uniqueContent": "Our local partners in Virginia follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "waco",
         "display": "Waco, TX",
         "phone": "888-555-0100",
-        "state": "TX"
+        "state": "TX",
+        "uniqueContent": "Texas local waste ordinances emphasize the proper management of construction debris. In cities like Austin or Dallas, it is essential to ensure your dumpster is not overloaded, as Texas landfill regulations strictly enforce height limits for safe transport."
     },
     {
         "name": "worcester",
         "display": "Worcester, MA",
         "phone": "888-555-0100",
-        "state": "MA"
+        "state": "MA",
+        "uniqueContent": "Our local partners in Worcester, MA follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "youngstown",
         "display": "Youngstown",
         "phone": "888-555-0100",
-        "state": "OH"
+        "state": "OH",
+        "uniqueContent": "Our local partners in Youngstown follow all regional guidelines for compliant, safe, and efficient waste disposal."
     },
     {
         "name": "yuma",
         "display": "Yuma, AZ",
         "phone": "888-555-0100",
-        "state": "AZ"
+        "state": "AZ",
+        "uniqueContent": "In Arizona, landfill management for roll-offs follows specific desert-region safety standards to prevent dust and material dispersal during transport."
     }
 ]
