@@ -223,28 +223,28 @@ const { city } = Astro.props;
 						<p class="text-slate-600 font-medium">Flat-rate pricing with a generous weight allowance included.</p>
 					</div>
 					<div class="bg-white p-10 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-                        <div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">!</div>
-                        <h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Important Compliance Notice</h3>
-                        <p class="text-slate-600 font-medium italic">
-                            Waste disposal regulations, permit requirements, and prohibited item lists change periodically. While we strive to provide the most current information for {city.display}, please verify specific municipal codes with your local city department before starting your project. If you have questions, call us—we’re happy to help you stay compliant.
-                        </p>
-                    </div>
+						<div class="w-16 h-16 bg-slate-900 text-green-600 rounded-sm flex items-center justify-center text-3xl font-black mb-6">3</div>
+						<h3 class="text-2xl font-black uppercase text-slate-900 mb-4">No Need To Be Home</h3>
+						<p class="text-slate-600 font-medium">We deliver so you can start right when you need to.</p>
+					</div>
 				</div>
 			</div>
 		</section>
 
-		<!-- Trust Section specific to city -->
-		<section class="py-20 bg-slate-50">
-			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-				<h2 class="text-4xl font-black uppercase text-slate-900 tracking-tight mb-6">The Best Independent Haulers in {city.display}</h2>
-				<p class="text-xl text-slate-600 font-medium max-w-3xl mx-auto mb-12">
-					We partner exclusively with top-tier, fully-insured local crews in {city.display}.
-				</p>
-                <div class="inline-block bg-white p-8 shadow-[8px_8px_0px_rgba(22,163,74,1)] border-4 border-slate-900 rounded-sm">
-                    <p class="text-2xl font-black uppercase text-slate-900 mb-2">Ready to book?</p>
-                    <p class="text-3xl text-green-600 font-black">{city.phone}</p>
+		<!-- Prohibited Items Watchlist -->
+        <section class="py-20 bg-slate-900 text-white">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="bg-slate-800 p-10 border-l-4 border-green-600 rounded-sm">
+                    <h3 class="text-2xl font-black uppercase text-green-500 mb-4">Important: Prohibited Items Watchlist</h3>
+                    <p class="text-slate-300 font-medium leading-relaxed mb-6">
+                        Regulations regarding restricted waste (such as tires, appliances, batteries, and certain chemicals) change frequently based on city and landfill guidelines. 
+                    </p>
+                    <p class="text-white font-bold mb-6">
+                        Because these lists evolve, please never assume an item is safe to load. If you are unsure about any material, please call us first to confirm—it’s much better to ask than to incur an unexpected surcharge or violation.
+                    </p>
+                    <a href="tel:8885550100" class="inline-block bg-green-600 text-white font-black py-3 px-6 rounded-sm uppercase tracking-wider hover:bg-green-700 transition">Call to Verify Items: 888-555-0100</a>
                 </div>
-			</div>
-		</section>
+            </div>
+        </section>
 	</main>
 </Layout>
