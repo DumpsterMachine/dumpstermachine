@@ -1,6 +1,6 @@
-import cities from './cities.json';
 ---
 import Layout from '../../../layouts/Layout.astro';
+import cities from '../cities.json';
 
 export function getStaticPaths() {
   return cities.map(city => ({
