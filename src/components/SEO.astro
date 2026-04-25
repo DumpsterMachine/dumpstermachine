@@ -1,0 +1,30 @@
+---
+const { city } = Astro.props;
+const breadcrumbList = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.dumpstermachine.com/" },
+    { "@type": "ListItem", "position": 2, "name": city.state, "item": `https://www.dumpstermachine.com/locations/${city.state.toLowerCase()}` },
+    { "@type": "ListItem", "position": 3, "name": city.display, "item": `https://www.dumpstermachine.com/locations/${city.state.toLowerCase()}/${city.name}` }
+  ]
+};
+
+const localBusiness = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": `Dumpster Machine - ${city.display}`,
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": city.display.split(',')[0],
+    "addressRegion": city.state,
+    "addressCountry": "US"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": city.display
+  }
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbList)} />
+<script type="application/ld+json" set:html={JSON.stringify(localBusiness)} />

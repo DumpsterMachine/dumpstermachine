@@ -9,10 +9,13 @@ export function getStaticPaths() {
   }));
 }
 
+import SEO from '../../../components/SEO.astro';
+
 const { city } = Astro.props;
 ---
 
 <Layout title={`Dumpster Rental in ${city.display} | Dumpster Machine`}>
+    <SEO city={city} />
 	<main>
 		<!-- City Hero Section -->
 		<section class="bg-slate-900 text-white relative overflow-hidden py-24 md:py-36">
