@@ -71,11 +71,22 @@ const { city } = Astro.props;
 
 		<section class="py-16 bg-white border-b border-slate-200">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 shadow-sm">
-                    <h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Local Disposal Guidelines for {city.display}</h3>
-                    <p class="text-slate-700 leading-relaxed">
-                        {city.uniqueContent}
-                    </p>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 shadow-sm">
+                        <h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Local Disposal Guidelines for {city.display}</h3>
+                        <p class="text-slate-700 leading-relaxed">
+                            {city.uniqueContent}
+                        </p>
+                    </div>
+                    <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 shadow-sm">
+                        <h3 class="text-2xl font-black uppercase text-slate-900 mb-4">Community Resources & Links</h3>
+                        <p class="text-slate-700 leading-relaxed mb-4">
+                            For official city information, permits, and waste management updates specific to {city.display}, visit the local government website.
+                        </p>
+                        <a href={`https://www.google.com/search?q=${encodeURIComponent(city.display + ' city official website')}`} target="_blank" rel="noopener noreferrer" class="inline-block bg-slate-900 text-white font-bold py-3 px-6 rounded-sm hover:bg-slate-800 transition">
+                            Visit {city.display} City Info
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
