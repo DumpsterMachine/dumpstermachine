@@ -11,7 +11,8 @@
             "Pine Hills",
             "Delaware Area",
             "West Hill"
-        ]
+        ],
+        "geoContext": "With Albany's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Albany and the greater NY area."
     },
     {
         "name": "albuquerque",
@@ -22,7 +23,8 @@
         "neighborhoods": [
             "Albuquerque Downtown",
             "Albuquerque Suburbs"
-        ]
+        ],
+        "geoContext": "With Albuquerque's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Albuquerque and the greater NM area."
     },
     {
         "name": "atlanta",
@@ -36,7 +38,8 @@
             "Downtown",
             "Inman Park",
             "Virginia-Highland"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Atlanta creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to GA construction projects."
     },
     {
         "name": "augusta",
@@ -47,7 +50,8 @@
         "neighborhoods": [
             "Augusta Downtown",
             "Augusta Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Augusta requires careful coordination. We\u2019ve supported countless projects across the Augusta region by ensuring debris is compliant with GA state-level environmental standards."
     },
     {
         "name": "austin",
@@ -58,7 +62,8 @@
         "neighborhoods": [
             "Austin Downtown",
             "Austin Suburbs"
-        ]
+        ],
+        "geoContext": "With Austin's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Austin and the greater TX area."
     },
     {
         "name": "baltimore",
@@ -69,7 +74,8 @@
         "neighborhoods": [
             "Baltimore Downtown",
             "Baltimore Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Baltimore creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to MD construction projects."
     },
     {
         "name": "birmingham",
@@ -80,7 +86,8 @@
         "neighborhoods": [
             "Birmingham Downtown",
             "Birmingham Suburbs"
-        ]
+        ],
+        "geoContext": "In Birmingham, we are frequently requested for driveway placements in AL-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Birmingham."
     },
     {
         "name": "boston-n.",
@@ -91,7 +98,8 @@
         "neighborhoods": [
             "Boston N. Downtown",
             "Boston N. Suburbs"
-        ]
+        ],
+        "geoContext": "With Boston N.'s rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Boston N. and the greater MA area."
     },
     {
         "name": "boston-s.",
@@ -102,7 +110,8 @@
         "neighborhoods": [
             "Boston S. Downtown",
             "Boston S. Suburbs"
-        ]
+        ],
+        "geoContext": "With Boston S.'s rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Boston S. and the greater MA area."
     },
     {
         "name": "buffalo",
@@ -113,7 +122,8 @@
         "neighborhoods": [
             "Buffalo Downtown",
             "Buffalo Suburbs"
-        ]
+        ],
+        "geoContext": "In Buffalo, we are frequently requested for driveway placements in NY-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Buffalo."
     },
     {
         "name": "charleston",
@@ -124,7 +134,8 @@
         "neighborhoods": [
             "Charleston Downtown",
             "Charleston Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Charleston requires careful coordination. We\u2019ve supported countless projects across the Charleston region by ensuring debris is compliant with SC state-level environmental standards."
     },
     {
         "name": "charlotte",
@@ -135,7 +146,8 @@
         "neighborhoods": [
             "Charlotte Downtown",
             "Charlotte Suburbs"
-        ]
+        ],
+        "geoContext": "In Charlotte, we are frequently requested for driveway placements in NC-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Charlotte."
     },
     {
         "name": "chattanooga",
@@ -146,7 +158,8 @@
         "neighborhoods": [
             "Chattanooga Downtown",
             "Chattanooga Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Chattanooga requires careful coordination. We\u2019ve supported countless projects across the Chattanooga region by ensuring debris is compliant with TN state-level environmental standards."
     },
     {
         "name": "chicago",
@@ -157,7 +170,8 @@
         "neighborhoods": [
             "Chicago Downtown",
             "Chicago Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Chicago requires careful coordination. We\u2019ve supported countless projects across the Chicago region by ensuring debris is compliant with IL state-level environmental standards."
     },
     {
         "name": "cincinnati",
@@ -168,7 +182,8 @@
         "neighborhoods": [
             "Cincinnati Downtown",
             "Cincinnati Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Cincinnati requires careful coordination. We\u2019ve supported countless projects across the Cincinnati region by ensuring debris is compliant with OH state-level environmental standards."
     },
     {
         "name": "cleveland",
@@ -179,7 +194,8 @@
         "neighborhoods": [
             "Cleveland Downtown",
             "Cleveland Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Cleveland creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to OH construction projects."
     },
     {
         "name": "colorado-springs",
@@ -190,7 +206,8 @@
         "neighborhoods": [
             "Colorado Springs Downtown",
             "Colorado Springs Suburbs"
-        ]
+        ],
+        "geoContext": "With Colorado Springs's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Colorado Springs and the greater CO area."
     },
     {
         "name": "columbia",
@@ -201,7 +218,8 @@
         "neighborhoods": [
             "Columbia Downtown",
             "Columbia Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Columbia creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to SC construction projects."
     },
     {
         "name": "columbus",
@@ -212,7 +230,8 @@
         "neighborhoods": [
             "Columbus Downtown",
             "Columbus Suburbs"
-        ]
+        ],
+        "geoContext": "With Columbus's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Columbus and the greater OH area."
     },
     {
         "name": "columbus",
@@ -223,7 +242,8 @@
         "neighborhoods": [
             "Columbus Downtown",
             "Columbus Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Columbus requires careful coordination. We\u2019ve supported countless projects across the Columbus region by ensuring debris is compliant with OH state-level environmental standards."
     },
     {
         "name": "corpus-christi",
@@ -234,7 +254,8 @@
         "neighborhoods": [
             "Corpus Christi Downtown",
             "Corpus Christi Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Corpus Christi requires careful coordination. We\u2019ve supported countless projects across the Corpus Christi region by ensuring debris is compliant with TX state-level environmental standards."
     },
     {
         "name": "dallas",
@@ -245,7 +266,8 @@
         "neighborhoods": [
             "Dallas Downtown",
             "Dallas Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Dallas requires careful coordination. We\u2019ve supported countless projects across the Dallas region by ensuring debris is compliant with TX state-level environmental standards."
     },
     {
         "name": "daytona",
@@ -256,7 +278,8 @@
         "neighborhoods": [
             "Daytona Downtown",
             "Daytona Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Daytona requires careful coordination. We\u2019ve supported countless projects across the Daytona region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "d.c.",
@@ -267,7 +290,8 @@
         "neighborhoods": [
             "D.C. Downtown",
             "D.C. Suburbs"
-        ]
+        ],
+        "geoContext": "With D.C.'s rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in D.C. and the greater DC area."
     },
     {
         "name": "delmarva",
@@ -278,7 +302,8 @@
         "neighborhoods": [
             "Delmarva Downtown",
             "Delmarva Suburbs"
-        ]
+        ],
+        "geoContext": "With Delmarva's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Delmarva and the greater MD area."
     },
     {
         "name": "denver",
@@ -289,7 +314,8 @@
         "neighborhoods": [
             "Denver Downtown",
             "Denver Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Denver creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to CO construction projects."
     },
     {
         "name": "des-moines",
@@ -300,7 +326,8 @@
         "neighborhoods": [
             "Des Moines Downtown",
             "Des Moines Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Des Moines creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to IA construction projects."
     },
     {
         "name": "detroit",
@@ -311,7 +338,8 @@
         "neighborhoods": [
             "Detroit Downtown",
             "Detroit Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Detroit creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to MI construction projects."
     },
     {
         "name": "fayetteville",
@@ -322,7 +350,8 @@
         "neighborhoods": [
             "Fayetteville Downtown",
             "Fayetteville Suburbs"
-        ]
+        ],
+        "geoContext": "With Fayetteville's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Fayetteville and the greater AR area."
     },
     {
         "name": "fort-wayne",
@@ -333,7 +362,8 @@
         "neighborhoods": [
             "Fort Wayne Downtown",
             "Fort Wayne Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Fort Wayne creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to IN construction projects."
     },
     {
         "name": "fort-worth",
@@ -344,7 +374,8 @@
         "neighborhoods": [
             "Fort Worth Downtown",
             "Fort Worth Suburbs"
-        ]
+        ],
+        "geoContext": "With Fort Worth's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Fort Worth and the greater TX area."
     },
     {
         "name": "ft.-lauderdale",
@@ -355,7 +386,8 @@
         "neighborhoods": [
             "Ft. Lauderdale Downtown",
             "Ft. Lauderdale Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Ft. Lauderdale requires careful coordination. We\u2019ve supported countless projects across the Ft. Lauderdale region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "ft.-myers",
@@ -366,7 +398,8 @@
         "neighborhoods": [
             "Ft. Myers Downtown",
             "Ft. Myers Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Ft. Myers creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to FL construction projects."
     },
     {
         "name": "gainesville",
@@ -377,7 +410,8 @@
         "neighborhoods": [
             "Gainesville Downtown",
             "Gainesville Suburbs"
-        ]
+        ],
+        "geoContext": "With Gainesville's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Gainesville and the greater FL area."
     },
     {
         "name": "grand-rapids",
@@ -388,7 +422,8 @@
         "neighborhoods": [
             "Grand Rapids Downtown",
             "Grand Rapids Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Grand Rapids creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to MI construction projects."
     },
     {
         "name": "green-bay",
@@ -399,7 +434,8 @@
         "neighborhoods": [
             "Green Bay Downtown",
             "Green Bay Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Green Bay requires careful coordination. We\u2019ve supported countless projects across the Green Bay region by ensuring debris is compliant with WI state-level environmental standards."
     },
     {
         "name": "greensboro",
@@ -410,7 +446,8 @@
         "neighborhoods": [
             "Greensboro Downtown",
             "Greensboro Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Greensboro requires careful coordination. We\u2019ve supported countless projects across the Greensboro region by ensuring debris is compliant with NC state-level environmental standards."
     },
     {
         "name": "greenville",
@@ -421,7 +458,8 @@
         "neighborhoods": [
             "Greenville Downtown",
             "Greenville Suburbs"
-        ]
+        ],
+        "geoContext": "In Greenville, we are frequently requested for driveway placements in SC-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Greenville."
     },
     {
         "name": "hartford",
@@ -432,7 +470,8 @@
         "neighborhoods": [
             "Hartford Downtown",
             "Hartford Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Hartford requires careful coordination. We\u2019ve supported countless projects across the Hartford region by ensuring debris is compliant with CT state-level environmental standards."
     },
     {
         "name": "hernando-citrus-sumter-marion",
@@ -443,7 +482,8 @@
         "neighborhoods": [
             "Hernando Citrus Sumter Marion Downtown",
             "Hernando Citrus Sumter Marion Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Hernando Citrus Sumter Marion requires careful coordination. We\u2019ve supported countless projects across the Hernando Citrus Sumter Marion region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "houston",
@@ -454,7 +494,8 @@
         "neighborhoods": [
             "Houston Downtown",
             "Houston Suburbs"
-        ]
+        ],
+        "geoContext": "With Houston's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Houston and the greater TX area."
     },
     {
         "name": "huntsville",
@@ -465,7 +506,8 @@
         "neighborhoods": [
             "Huntsville Downtown",
             "Huntsville Suburbs"
-        ]
+        ],
+        "geoContext": "In Huntsville, we are frequently requested for driveway placements in AL-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Huntsville."
     },
     {
         "name": "indianapolis",
@@ -476,7 +518,8 @@
         "neighborhoods": [
             "Indianapolis Downtown",
             "Indianapolis Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Indianapolis creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to IN construction projects."
     },
     {
         "name": "jacksonville",
@@ -487,7 +530,8 @@
         "neighborhoods": [
             "Jacksonville Downtown",
             "Jacksonville Suburbs"
-        ]
+        ],
+        "geoContext": "In Jacksonville, we are frequently requested for driveway placements in FL-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Jacksonville."
     },
     {
         "name": "kansas-city",
@@ -498,7 +542,8 @@
         "neighborhoods": [
             "Kansas City Downtown",
             "Kansas City Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Kansas City requires careful coordination. We\u2019ve supported countless projects across the Kansas City region by ensuring debris is compliant with MO state-level environmental standards."
     },
     {
         "name": "knoxville",
@@ -509,7 +554,8 @@
         "neighborhoods": [
             "Knoxville Downtown",
             "Knoxville Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Knoxville requires careful coordination. We\u2019ve supported countless projects across the Knoxville region by ensuring debris is compliant with TN state-level environmental standards."
     },
     {
         "name": "lakeland",
@@ -520,7 +566,8 @@
         "neighborhoods": [
             "Lakeland Downtown",
             "Lakeland Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Lakeland requires careful coordination. We\u2019ve supported countless projects across the Lakeland region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "las-vegas",
@@ -531,7 +578,8 @@
         "neighborhoods": [
             "Las Vegas Downtown",
             "Las Vegas Suburbs"
-        ]
+        ],
+        "geoContext": "With Las Vegas's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Las Vegas and the greater NV area."
     },
     {
         "name": "lexington",
@@ -542,7 +590,8 @@
         "neighborhoods": [
             "Lexington Downtown",
             "Lexington Suburbs"
-        ]
+        ],
+        "geoContext": "With Lexington's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Lexington and the greater KY area."
     },
     {
         "name": "little-rock",
@@ -553,7 +602,8 @@
         "neighborhoods": [
             "Little Rock Downtown",
             "Little Rock Suburbs"
-        ]
+        ],
+        "geoContext": "In Little Rock, we are frequently requested for driveway placements in AR-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Little Rock."
     },
     {
         "name": "long-island",
@@ -564,7 +614,8 @@
         "neighborhoods": [
             "Long Island Downtown",
             "Long Island Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Long Island creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to NY construction projects."
     },
     {
         "name": "los-angeles",
@@ -575,7 +626,8 @@
         "neighborhoods": [
             "Los Angeles Downtown",
             "Los Angeles Suburbs"
-        ]
+        ],
+        "geoContext": "With Los Angeles's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Los Angeles and the greater CA area."
     },
     {
         "name": "louisville",
@@ -586,7 +638,8 @@
         "neighborhoods": [
             "Louisville Downtown",
             "Louisville Suburbs"
-        ]
+        ],
+        "geoContext": "In Louisville, we are frequently requested for driveway placements in KY-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Louisville."
     },
     {
         "name": "macon",
@@ -597,7 +650,8 @@
         "neighborhoods": [
             "Macon Downtown",
             "Macon Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Macon creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to GA construction projects."
     },
     {
         "name": "madison",
@@ -608,7 +662,8 @@
         "neighborhoods": [
             "Madison Downtown",
             "Madison Suburbs"
-        ]
+        ],
+        "geoContext": "With Madison's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Madison and the greater WI area."
     },
     {
         "name": "melbourne",
@@ -619,7 +674,8 @@
         "neighborhoods": [
             "Melbourne Downtown",
             "Melbourne Suburbs"
-        ]
+        ],
+        "geoContext": "With Melbourne's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Melbourne and the greater FL area."
     },
     {
         "name": "memphis",
@@ -630,7 +686,8 @@
         "neighborhoods": [
             "Memphis Downtown",
             "Memphis Suburbs"
-        ]
+        ],
+        "geoContext": "With Memphis's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Memphis and the greater TN area."
     },
     {
         "name": "mid-michigan",
@@ -641,7 +698,8 @@
         "neighborhoods": [
             "Mid Michigan Downtown",
             "Mid Michigan Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Mid Michigan requires careful coordination. We\u2019ve supported countless projects across the Mid Michigan region by ensuring debris is compliant with MI state-level environmental standards."
     },
     {
         "name": "milwaukee",
@@ -652,7 +710,8 @@
         "neighborhoods": [
             "Milwaukee Downtown",
             "Milwaukee Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Milwaukee requires careful coordination. We\u2019ve supported countless projects across the Milwaukee region by ensuring debris is compliant with WI state-level environmental standards."
     },
     {
         "name": "nashville",
@@ -663,7 +722,8 @@
         "neighborhoods": [
             "Nashville Downtown",
             "Nashville Suburbs"
-        ]
+        ],
+        "geoContext": "With Nashville's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Nashville and the greater TN area."
     },
     {
         "name": "new-orleans",
@@ -674,7 +734,8 @@
         "neighborhoods": [
             "New Orleans Downtown",
             "New Orleans Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in New Orleans requires careful coordination. We\u2019ve supported countless projects across the New Orleans region by ensuring debris is compliant with LA state-level environmental standards."
     },
     {
         "name": "nj-east",
@@ -685,7 +746,8 @@
         "neighborhoods": [
             "NJ East Downtown",
             "NJ East Suburbs"
-        ]
+        ],
+        "geoContext": "In NJ East, we are frequently requested for driveway placements in NJ-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in NJ East."
     },
     {
         "name": "nj-north",
@@ -696,7 +758,8 @@
         "neighborhoods": [
             "NJ North Downtown",
             "NJ North Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in NJ North creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to NJ construction projects."
     },
     {
         "name": "nj-south",
@@ -707,7 +770,8 @@
         "neighborhoods": [
             "NJ South Downtown",
             "NJ South Suburbs"
-        ]
+        ],
+        "geoContext": "In NJ South, we are frequently requested for driveway placements in NJ-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in NJ South."
     },
     {
         "name": "nj-west",
@@ -718,7 +782,8 @@
         "neighborhoods": [
             "NJ West Downtown",
             "NJ West Suburbs"
-        ]
+        ],
+        "geoContext": "In NJ West, we are frequently requested for driveway placements in NJ-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in NJ West."
     },
     {
         "name": "norfolk",
@@ -729,7 +794,8 @@
         "neighborhoods": [
             "Norfolk Downtown",
             "Norfolk Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Norfolk requires careful coordination. We\u2019ve supported countless projects across the Norfolk region by ensuring debris is compliant with VA state-level environmental standards."
     },
     {
         "name": "ocala",
@@ -740,7 +806,8 @@
         "neighborhoods": [
             "Ocala Downtown",
             "Ocala Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Ocala requires careful coordination. We\u2019ve supported countless projects across the Ocala region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "okc",
@@ -751,7 +818,8 @@
         "neighborhoods": [
             "OKC Downtown",
             "OKC Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in OKC creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to OK construction projects."
     },
     {
         "name": "omaha",
@@ -762,7 +830,8 @@
         "neighborhoods": [
             "Omaha Downtown",
             "Omaha Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Omaha requires careful coordination. We\u2019ve supported countless projects across the Omaha region by ensuring debris is compliant with NE state-level environmental standards."
     },
     {
         "name": "orlando",
@@ -773,7 +842,8 @@
         "neighborhoods": [
             "Orlando Downtown",
             "Orlando Suburbs"
-        ]
+        ],
+        "geoContext": "In Orlando, we are frequently requested for driveway placements in FL-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Orlando."
     },
     {
         "name": "palm-beach",
@@ -784,7 +854,8 @@
         "neighborhoods": [
             "Palm Beach Downtown",
             "Palm Beach Suburbs"
-        ]
+        ],
+        "geoContext": "With Palm Beach's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Palm Beach and the greater FL area."
     },
     {
         "name": "pasco-pinellas",
@@ -795,7 +866,8 @@
         "neighborhoods": [
             "Pasco Pinellas Downtown",
             "Pasco Pinellas Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Pasco Pinellas creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to FL construction projects."
     },
     {
         "name": "pensacola",
@@ -806,7 +878,8 @@
         "neighborhoods": [
             "Pensacola Downtown",
             "Pensacola Suburbs"
-        ]
+        ],
+        "geoContext": "With Pensacola's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Pensacola and the greater FL area."
     },
     {
         "name": "philadelphia",
@@ -817,7 +890,8 @@
         "neighborhoods": [
             "Philadelphia Downtown",
             "Philadelphia Suburbs"
-        ]
+        ],
+        "geoContext": "With Philadelphia's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Philadelphia and the greater PA area."
     },
     {
         "name": "phoenix",
@@ -828,7 +902,8 @@
         "neighborhoods": [
             "Phoenix Downtown",
             "Phoenix Suburbs"
-        ]
+        ],
+        "geoContext": "In Phoenix, we are frequently requested for driveway placements in AZ-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Phoenix."
     },
     {
         "name": "pittsburgh",
@@ -839,7 +914,8 @@
         "neighborhoods": [
             "Pittsburgh Downtown",
             "Pittsburgh Suburbs"
-        ]
+        ],
+        "geoContext": "In Pittsburgh, we are frequently requested for driveway placements in PA-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Pittsburgh."
     },
     {
         "name": "providence",
@@ -850,7 +926,8 @@
         "neighborhoods": [
             "Providence Downtown",
             "Providence Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Providence creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to RI construction projects."
     },
     {
         "name": "raleigh",
@@ -861,7 +938,8 @@
         "neighborhoods": [
             "Raleigh Downtown",
             "Raleigh Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Raleigh requires careful coordination. We\u2019ve supported countless projects across the Raleigh region by ensuring debris is compliant with NC state-level environmental standards."
     },
     {
         "name": "richmond",
@@ -872,7 +950,8 @@
         "neighborhoods": [
             "Richmond Downtown",
             "Richmond Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Richmond requires careful coordination. We\u2019ve supported countless projects across the Richmond region by ensuring debris is compliant with VA state-level environmental standards."
     },
     {
         "name": "rio-grande-valley",
@@ -883,7 +962,8 @@
         "neighborhoods": [
             "Rio Grande Valley Downtown",
             "Rio Grande Valley Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Rio Grande Valley requires careful coordination. We\u2019ve supported countless projects across the Rio Grande Valley region by ensuring debris is compliant with TX state-level environmental standards."
     },
     {
         "name": "rochester",
@@ -894,7 +974,8 @@
         "neighborhoods": [
             "Rochester Downtown",
             "Rochester Suburbs"
-        ]
+        ],
+        "geoContext": "In Rochester, we are frequently requested for driveway placements in NY-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Rochester."
     },
     {
         "name": "sacramento",
@@ -905,7 +986,8 @@
         "neighborhoods": [
             "Sacramento Downtown",
             "Sacramento Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Sacramento requires careful coordination. We\u2019ve supported countless projects across the Sacramento region by ensuring debris is compliant with CA state-level environmental standards."
     },
     {
         "name": "salt-lake-city",
@@ -916,7 +998,8 @@
         "neighborhoods": [
             "Salt Lake City Downtown",
             "Salt Lake City Suburbs"
-        ]
+        ],
+        "geoContext": "In Salt Lake City, we are frequently requested for driveway placements in UT-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Salt Lake City."
     },
     {
         "name": "san-antonio",
@@ -927,7 +1010,8 @@
         "neighborhoods": [
             "San Antonio Downtown",
             "San Antonio Suburbs"
-        ]
+        ],
+        "geoContext": "With San Antonio's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in San Antonio and the greater TX area."
     },
     {
         "name": "san-bernardino",
@@ -938,7 +1022,8 @@
         "neighborhoods": [
             "San Bernardino Downtown",
             "San Bernardino Suburbs"
-        ]
+        ],
+        "geoContext": "In San Bernardino, we are frequently requested for driveway placements in CA-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in San Bernardino."
     },
     {
         "name": "san-diego",
@@ -949,7 +1034,8 @@
         "neighborhoods": [
             "San Diego Downtown",
             "San Diego Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in San Diego creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to CA construction projects."
     },
     {
         "name": "sarasota",
@@ -960,7 +1046,8 @@
         "neighborhoods": [
             "Sarasota Downtown",
             "Sarasota Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Sarasota requires careful coordination. We\u2019ve supported countless projects across the Sarasota region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "savannah",
@@ -971,7 +1058,8 @@
         "neighborhoods": [
             "Savannah Downtown",
             "Savannah Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Savannah creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to GA construction projects."
     },
     {
         "name": "shreveport",
@@ -982,7 +1070,8 @@
         "neighborhoods": [
             "Shreveport Downtown",
             "Shreveport Suburbs"
-        ]
+        ],
+        "geoContext": "With Shreveport's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Shreveport and the greater LA area."
     },
     {
         "name": "south-florida",
@@ -993,7 +1082,8 @@
         "neighborhoods": [
             "South Florida Downtown",
             "South Florida Suburbs"
-        ]
+        ],
+        "geoContext": "In South Florida, we are frequently requested for driveway placements in FL-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in South Florida."
     },
     {
         "name": "springfield",
@@ -1004,7 +1094,8 @@
         "neighborhoods": [
             "Springfield Downtown",
             "Springfield Suburbs"
-        ]
+        ],
+        "geoContext": "With Springfield's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Springfield and the greater MA area."
     },
     {
         "name": "st.-louis",
@@ -1015,7 +1106,8 @@
         "neighborhoods": [
             "St. Louis Downtown",
             "St. Louis Suburbs"
-        ]
+        ],
+        "geoContext": "With St. Louis's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in St. Louis and the greater MO area."
     },
     {
         "name": "tallahassee",
@@ -1026,7 +1118,8 @@
         "neighborhoods": [
             "Tallahassee Downtown",
             "Tallahassee Suburbs"
-        ]
+        ],
+        "geoContext": "Construction in Tallahassee requires careful coordination. We\u2019ve supported countless projects across the Tallahassee region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "tampa",
@@ -1040,7 +1133,8 @@
             "Seminole Heights",
             "Downtown",
             "South Tampa"
-        ]
+        ],
+        "geoContext": "Construction in Tampa requires careful coordination. We\u2019ve supported countless projects across the Tampa region by ensuring debris is compliant with FL state-level environmental standards."
     },
     {
         "name": "toledo",
@@ -1051,7 +1145,8 @@
         "neighborhoods": [
             "Toledo Downtown",
             "Toledo Suburbs"
-        ]
+        ],
+        "geoContext": "In Toledo, we are frequently requested for driveway placements in OH-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Toledo."
     },
     {
         "name": "tucson",
@@ -1062,7 +1157,8 @@
         "neighborhoods": [
             "Tucson Downtown",
             "Tucson Suburbs"
-        ]
+        ],
+        "geoContext": "In Tucson, we are frequently requested for driveway placements in AZ-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Tucson."
     },
     {
         "name": "tulsa",
@@ -1073,7 +1169,8 @@
         "neighborhoods": [
             "Tulsa Downtown",
             "Tulsa Suburbs"
-        ]
+        ],
+        "geoContext": "In Tulsa, we are frequently requested for driveway placements in OK-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Tulsa."
     },
     {
         "name": "twin-cities",
@@ -1084,7 +1181,8 @@
         "neighborhoods": [
             "Twin Cities Downtown",
             "Twin Cities Suburbs"
-        ]
+        ],
+        "geoContext": "In Twin Cities, we are frequently requested for driveway placements in MN-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Twin Cities."
     },
     {
         "name": "virginia",
@@ -1095,7 +1193,8 @@
         "neighborhoods": [
             "Virginia Downtown",
             "Virginia Suburbs"
-        ]
+        ],
+        "geoContext": "With Virginia's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Virginia and the greater VA area."
     },
     {
         "name": "waco",
@@ -1106,7 +1205,8 @@
         "neighborhoods": [
             "Waco Downtown",
             "Waco Suburbs"
-        ]
+        ],
+        "geoContext": "In Waco, we are frequently requested for driveway placements in TX-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Waco."
     },
     {
         "name": "worcester",
@@ -1117,7 +1217,8 @@
         "neighborhoods": [
             "Worcester Downtown",
             "Worcester Suburbs"
-        ]
+        ],
+        "geoContext": "With Worcester's rapid expansion, we are often providing same-day bin delivery for job sites near local commercial districts. We understand the specific traffic and loading regulations that affect waste management in Worcester and the greater MA area."
     },
     {
         "name": "youngstown",
@@ -1128,7 +1229,8 @@
         "neighborhoods": [
             "Youngstown Downtown",
             "Youngstown Suburbs"
-        ]
+        ],
+        "geoContext": "In Youngstown, we are frequently requested for driveway placements in OH-specific residential zones. Our local crew knows the narrow clearances and specific permits required for property-line drop-offs in Youngstown."
     },
     {
         "name": "yuma",
@@ -1139,6 +1241,7 @@
         "neighborhoods": [
             "Yuma Downtown",
             "Yuma Suburbs"
-        ]
+        ],
+        "geoContext": "The historic housing stock in Yuma creates unique challenges for waste removal. Whether it's clearing out a century-old basement or managing a modern roof tear-off, we\u2019ve handled the specific debris profiles common to AZ construction projects."
     }
 ]
